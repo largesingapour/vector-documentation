@@ -6,7 +6,7 @@ description: >-
 
 # 🤖 Bot Overview
 
-Vector AI's Telegram bot brings the full power of blockchain intelligence directly to your Telegram chats. Whether you're managing a community, tracking portfolios, or executing DeFi strategies, Vector Bot integrates seamlessly into your workflow.
+Vector GPT's Telegram bot brings the full power of blockchain intelligence directly to your Telegram chats. Whether you're managing a community, tracking portfolios, or executing DeFi strategies, Vector Bot integrates seamlessly into your workflow.
 
 ## 🎯 **Core Capabilities**
 
@@ -168,3 +168,12 @@ Designed for community engagement and collaborative analysis:
 ---
 
 **💡 Pro Tip**: Start with basic commands in a private chat to get familiar with Vector Bot's capabilities before using it in group settings. The bot learns your preferences over time and provides increasingly personalized insights.
+
+---
+
+## 🌐 **Get Connected**
+
+- **🌐 Website**: https://vector-ai.pro
+- **🐦 Twitter/X**: https://x.com/vectorai_x
+- **💬 Telegram**: https://t.me/vectorai_tg
+- **📧 Support**: team@vector-ai.pro

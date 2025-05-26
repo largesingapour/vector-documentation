@@ -1,13 +1,13 @@
 # ❓ Frequently Asked Questions
 
-Common questions about Vector AI, VECTOR token, and platform usage. If you can't find your answer here, join our [Telegram support group](https://t.me/VectorAISupport) or contact us directly.
+Common questions about Vector GPT, VECTOR token, and platform usage. If you can't find your answer here, join our [Telegram community](https://t.me/vectorai_tg) or contact us directly.
 
 ## 🚀 **General Platform Questions**
 
-### What is Vector AI?
-Vector AI is the first language-based blockchain explorer with built-in transaction capabilities. It combines GPT-powered AI with real-time blockchain data to provide intelligent analysis, transaction preparation, and automated insights across multiple blockchains.
+### What is Vector GPT?
+Vector GPT is the first language-based blockchain explorer with built-in transaction capabilities. It combines GPT-powered AI with real-time blockchain data to provide intelligent analysis, transaction preparation, and automated insights across multiple blockchains.
 
-### How is Vector AI different from other blockchain tools?
+### How is Vector GPT different from other blockchain tools?
 - **Conversational Interface**: Natural language commands instead of complex UIs
 - **Real-time Data**: Live blockchain state, not cached information
 - **AI-Powered Analysis**: Intelligent insights and risk assessment
@@ -28,14 +28,14 @@ Vector AI is the first language-based blockchain explorer with built-in transact
 - Fantom
 - Additional Layer 2 solutions
 
-### Is Vector AI free to use?
-Vector AI offers a **free tier** with basic features:
+### Is Vector GPT free to use?
+Vector GPT offers a **free tier** with basic features:
 - 50 queries per day
 - Basic chat interface
 - Simple balance checks
 - 30-second rate limits
 
-Premium features require VECTOR token staking. See our [pricing guide](pricing.md) for full details.
+Premium features require VECTOR token staking. See our [pricing guide](../premium-apis/pricing.md) for full details.
 
 ## 💰 **VECTOR Token Questions**
 
@@ -47,10 +47,29 @@ VECTOR serves multiple purposes:
 - **Governance**: Vote on platform features and development
 - **Staking Rewards**: Earn passive income from platform revenue
 
+### How are the tokens allocated?
+Vector GPT uses a transparent allocation model:
+- **Liquidity (Locked)**: 70% - Ensures deep trading pools and low slippage
+- **Marketing & Growth**: 10% - Fund campaigns, partnerships, and community growth
+- **Staking / Rewards**: 8% - Rewards for token holders and active users
+- **Team & Dev (Vested)**: 7% - Vested over 21 months for accountability
+- **API / Infrastructure**: 5% - Pays for AI tools, APIs, and platform expansion
+
+### What are the tax rates?
+Vector GPT uses a balanced 5% buy / 5% sell tax structure:
+
+**Buy Tax (5%):**
+- 3% → Marketing & Development
+- 2% → Staking Pool
+
+**Sell Tax (5%):**
+- 2% → Treasury
+- 3% → Liquidity/Burn
+
 ### How do I buy VECTOR tokens?
 1. **Decentralized Exchanges**: Buy on Uniswap, SushiSwap, 1inch
 2. **Centralized Exchanges**: Available on major CEXs (check current listings)
-3. **Direct Integration**: Purchase within the Vector AI platform (coming soon)
+3. **Direct Integration**: Purchase within the Vector GPT platform (coming soon)
 
 **Contract Address**: `[TO_BE_UPDATED_WITH_ACTUAL_CONTRACT]`
 
@@ -61,19 +80,18 @@ VECTOR serves multiple purposes:
 | **Silver** | 1,000,000 VECTOR | Premium APIs, 5s cooldown |
 | **Gold** | 10,000,000 VECTOR | Unlimited access, no cooldowns |
 
-### Can I unstake my tokens anytime?
-Each tier has different lock periods:
-- **Bronze**: 30-day minimum lock
-- **Silver**: 90-day minimum lock  
-- **Gold**: 180-day minimum lock
+### Is the liquidity locked?
+Yes! **70% of the total supply** is locked for liquidity via Unicrypt or Team.Finance for a minimum of **12 months**. This ensures:
+- Deep trading pools with minimal slippage
+- Protection against rug pulls
+- Long-term project stability
 
-Early withdrawal incurs penalties (5-15% depending on tier).
-
-### How are staking rewards calculated?
-- **APY Range**: 5-15% based on tier and lock duration
-- **Distribution**: Weekly automatic compounding
-- **Revenue Share**: Gold tier stakers receive portion of platform revenue
-- **Governance Bonus**: Additional rewards for active governance participation
+### How is the team held accountable?
+The team allocation (7% of supply) follows a strict vesting schedule:
+- **3-month cliff** before any tokens unlock
+- **18-month linear vesting** for gradual release
+- **Total duration**: 21 months
+- **Multisig control** for all major fund movements
 
 ## 🤖 **Telegram Bot Questions**
 
@@ -105,8 +123,8 @@ Yes! The bot supports both:
 
 ## 🔧 **Technical Questions**
 
-### How does Vector AI access blockchain data?
-Vector AI integrates with multiple data providers:
+### How does Vector GPT access blockchain data?
+Vector GPT integrates with multiple data providers:
 - **Direct Node Connections**: Real-time blockchain state
 - **Premium APIs**: Dune, Bitquery, Chainalysis for enhanced data
 - **Custom Indexers**: Proprietary data processing for unique insights
@@ -126,8 +144,8 @@ Vector AI integrates with multiple data providers:
 - **Confidence Scoring**: Each analysis includes reliability metrics
 - **Human Verification**: Critical decisions always require user confirmation
 
-### Can Vector AI execute transactions automatically?
-**No.** Vector AI prioritizes security:
+### Can Vector GPT execute transactions automatically?
+**No.** Vector GPT prioritizes security:
 - **Preparation Only**: Creates transaction parameters
 - **User Confirmation**: Always requires manual approval
 - **Simulation First**: Shows expected outcomes before execution
@@ -146,9 +164,9 @@ Yes! Enterprise packages include:
 ### What about API rate limits for high-volume usage?
 **Gold Tier**: 25,000 calls/day with no message rate limits
 **Enterprise**: Custom limits based on requirements
-**Volume Discounts**: Up to 50% off for 1M+ calls/month
+**Volume Discounts**: Available for high-volume users
 
-### Can Vector AI integrate with our existing systems?
+### Can Vector GPT integrate with our existing systems?
 Absolutely:
 - **RESTful APIs**: Standard HTTP endpoints
 - **WebSocket Streams**: Real-time data feeds
@@ -157,8 +175,8 @@ Absolutely:
 
 ## 🔒 **Security & Compliance**
 
-### Has Vector AI been audited?
-- **Smart Contracts**: Audited by [TO_BE_UPDATED]
+### Has Vector GPT been audited?
+- **Smart Contracts**: Professional audit scheduled before launch
 - **Platform Security**: Regular security assessments
 - **Data Protection**: GDPR compliant data handling
 - **Bug Bounty**: Active security researcher program
@@ -170,7 +188,7 @@ Absolutely:
 - **Usage Analytics**: Aggregated and anonymized platform metrics
 - **No Personal Data**: No KYC, email, or personal information required
 
-### Is Vector AI regulated?
+### Is Vector GPT regulated?
 - **Utility Token**: VECTOR is designed as a utility token, not a security
 - **Compliance Ready**: Built to adapt to evolving regulations
 - **Legal Review**: Ongoing legal compliance monitoring
@@ -206,13 +224,13 @@ Absolutely:
 
 ### How can I get support?
 **Community Support:**
-- **Telegram**: [@VectorAISupport](https://t.me/VectorAISupport)
-- **Discord**: [discord.gg/vectorai](https://discord.gg/vectorai)
-- **Twitter**: [@VectorAI_Pro](https://twitter.com/VectorAI_Pro)
+- **Telegram**: https://t.me/vectorai_tg
+- **Twitter/X**: https://x.com/vectorai_x
+- **Website**: https://vector-ai.pro
 
 **Direct Support:**
 - **Bot Command**: Send `/support [your_issue]` in Telegram
-- **Email**: support@vectorai.pro (Gold tier priority)
+- **Email**: team@vector-ai.pro (Gold tier priority)
 - **Enterprise**: Dedicated account managers
 
 ### What information should I include in support requests?
@@ -239,4 +257,13 @@ Absolutely:
 4. **Feature Requests**: Suggest new features via `/feedback` command
 
 **Contributing to FAQ:**
-If you have questions that aren't covered here, please let us know! We regularly update this FAQ based on community feedback. 
+If you have questions that aren't covered here, please let us know! We regularly update this FAQ based on community feedback.
+
+---
+
+## 🌐 **Official Links**
+
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x  
+- **Telegram**: https://t.me/vectorai_tg
+- **Email**: team@vector-ai.pro 

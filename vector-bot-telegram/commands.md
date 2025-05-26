@@ -6,7 +6,7 @@ description: >-
 
 # 📋 Commands
 
-Complete reference for all Vector AI Telegram bot commands. Commands are organized by category with examples and usage notes.
+Complete reference for all Vector GPT Telegram bot commands. Commands are organized by category with examples and usage notes.
 
 ## 🚀 **Essential Commands**
 

@@ -6,7 +6,7 @@ description: >-
 
 # ⚙️ Setup & Configuration
 
-Get your Vector AI Telegram bot up and running in minutes with this comprehensive setup guide. Whether you're setting up personal portfolio tracking or configuring community management for your group, we'll walk you through every step.
+Get your Vector GPT Telegram bot up and running in minutes with this comprehensive setup guide. Whether you're setting up personal portfolio tracking or configuring community management for your group, we'll walk you through every step.
 
 ## 🚀 **Quick Start Setup**
 
@@ -270,9 +270,10 @@ Connect external services and tools:
 - Ensure sufficient VECTOR balance for premium features
 
 ### Getting Help
-- **Community Support**: Join [@VectorAISupport](https://t.me/VectorAISupport)
-- **Documentation**: Full guides at [docs.vectorai.pro](https://docs.vectorai.pro)
+- **Community Support**: Join [@VectorAISupport](https://t.me/vectorai_tg)
+- **Documentation**: Full guides at [vector-ai.pro](https://vector-ai.pro)
 - **Direct Support**: Send `/support [your_issue]` for direct assistance
+- **Email**: team@vector-ai.pro
 
 ---
 
@@ -281,3 +282,12 @@ Connect external services and tools:
 - Test all settings in a private chat before configuring group features
 - Regular backup of your custom commands and settings using `/export`
 - Use `/help [command]` for detailed information about any specific command
+
+---
+
+## 🌐 **Official Links**
+
+- **🌐 Website**: https://vector-ai.pro
+- **🐦 Twitter/X**: https://x.com/vectorai_x
+- **💬 Telegram**: https://t.me/vectorai_tg
+- **📧 Email**: team@vector-ai.pro

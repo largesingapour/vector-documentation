@@ -1,6 +1,6 @@
 # 💎 Comprehensive Features & Capabilities
 
-Vector AI is a blockchain-connected GPT-style assistant that bridges on-chain data, off-chain APIs, and AI reasoning to deliver real-time analytics and transaction capabilities. Here's everything Vector can do:
+Vector GPT is a blockchain-connected GPT-style assistant that bridges on-chain data, off-chain APIs, and AI reasoning to deliver real-time analytics and transaction capabilities. Here's everything Vector can do:
 
 ## 🔍 **Blockchain Analysis & Intelligence**
 
@@ -139,4 +139,13 @@ Vector AI is a blockchain-connected GPT-style assistant that bridges on-chain da
 - **Real-time Data**: Every query uses live blockchain state, not cached data
 - **Transaction Safety**: Never auto-executes - always requires user confirmation
 - **AI-First Design**: Natural language interface with intelligent context awareness
-- **Enterprise Ready**: Professional-grade security, compliance, and scaling capabilities 
+- **Enterprise Ready**: Professional-grade security, compliance, and scaling capabilities
+
+---
+
+## 🌐 **Get Started Today**
+
+- **🌐 Website**: https://vector-ai.pro
+- **🐦 Twitter/X**: https://x.com/vectorai_x
+- **💬 Telegram**: https://t.me/vectorai_tg
+- **📧 Email**: team@vector-ai.pro 

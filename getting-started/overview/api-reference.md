@@ -2,9 +2,9 @@
 description: Not yet live in MVP Beta
 ---
 
-# 🔧 Vector AI API Reference
+# 🔧 Vector GPT API Reference
 
-Complete API documentation for integrating Vector AI's blockchain intelligence into your applications. Our REST API provides programmatic access to all Vector AI capabilities including real-time blockchain analysis, transaction preparation, and AI-powered insights.
+Complete API documentation for integrating Vector GPT's blockchain intelligence into your applications. Our REST API provides programmatic access to all Vector GPT capabilities including real-time blockchain analysis, transaction preparation, and AI-powered insights.
 
 ## 🚀 **Quick Start**
 
@@ -24,7 +24,7 @@ curl -H "Authorization: Bearer YOUR_API_KEY" \
 
 ### Get Your API Key
 1. **Stake VECTOR tokens** for your desired tier
-2. **Visit**: https://app.vectorai.pro/api-keys
+2. **Visit**: https://vector-ai.pro/api-keys
 3. **Generate** a new API key for your applications
 4. **Configure** rate limits and permissions
 
@@ -445,10 +445,19 @@ ws.onopen = () => {
 
 ## 📞 **Support & Resources**
 
-- **API Status**: https://status.vectorai.pro
-- **Postman Collection**: https://vectorai.pro/postman
+- **API Status**: https://status.vector-ai.pro
+- **Postman Collection**: https://vector-ai.pro/postman
 - **OpenAPI Spec**: https://api.vectorai.pro/v1/openapi.json
-- **Developer Discord**: https://discord.gg/vectorai-dev
-- **Rate Limit Dashboard**: https://app.vectorai.pro/usage
+- **Developer Community**: https://t.me/vectorai_tg
+- **Rate Limit Dashboard**: https://vector-ai.pro/usage
 
-**Need help?** Contact our developer support team at api-support@vectorai.pro
+**Need help?** Contact our developer support team at team@vector-ai.pro
+
+---
+
+## 🌐 **Official Links**
+
+- **🌐 Website**: https://vector-ai.pro
+- **🐦 Twitter/X**: https://x.com/vectorai_x
+- **💬 Telegram**: https://t.me/vectorai_tg
+- **📧 Email**: team@vector-ai.pro

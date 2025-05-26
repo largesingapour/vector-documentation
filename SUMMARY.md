@@ -1,30 +1,36 @@
-# Table of contents
+# 📚 Vector AI Documentation
 
-## Getting Started
+## 🚀 Getting Started
 
-* [🚀 Project Overview](README.md)
-  * [⚡ Quick Start](getting-started/overview/quick-start.md)
+* [🏠 Welcome to Vector AI](README.md)
+* [📋 Overview](getting-started/overview/README.md)
+  * [⚡ Quick Start Guide](getting-started/overview/quick-start.md)
+  * [💎 Complete Features & Capabilities](getting-started/overview/comprehensive-features.md)
   * [🏗️ Architecture](getting-started/overview/architecture/README.md)
-    * [VGPT Conversational Execution](getting-started/overview/architecture/vgpt-conversational-execution.md)
-    * [VGPT + Custom APIs](getting-started/overview/architecture/vgpt-+-custom-apis.md)
-  * [🔧 Custom Vector APIs](getting-started/overview/api-reference.md)
-  * [💡 Vector Use Cases](getting-started/overview/use-cases.md)
+    * [💬 vGPT Conversational Execution](getting-started/overview/architecture/vgpt-conversational-execution.md)
+    * [🔧 vGPT + Custom APIs](getting-started/overview/architecture/vgpt-+-custom-apis.md)
+  * [🔧 API Reference](getting-started/overview/api-reference.md)
 
-## Token & Economics
+## 💰 Token & Economics
 
-* [💲 Token Info](token-and-economics/token-info.md)
-* [💰 Tax Structure](token-and-economics/tokenomics.md)
-* [🏪 Anti-Whale/Contract Functions](token-and-economics/staking.md)
-* [🎁 Revenue Sharing Model](token-and-economics/rewards.md)
+* [💎 Complete Tokenomics & Economics](token-and-economics/unified-tokenomics.md)
+* [📊 Token Information](token-and-economics/token-info.md)
+* [📈 Tokenomics](token-and-economics/tokenomics.md)
+* [🏆 Staking](token-and-economics/staking.md)
+* [🎁 Rewards](token-and-economics/rewards.md)
 
-## VECTOR Bot (Telegram)
+## 🤖 Vector Bot (Telegram)
 
 * [🤖 Bot Overview](vector-bot-telegram/telegram-bot.md)
 * [⚙️ Setup & Configuration](vector-bot-telegram/setup-and-configuration.md)
-* [📋 Commands](vector-bot-telegram/commands.md)
+* [📋 Commands Reference](vector-bot-telegram/commands.md)
 
-## Premium APIs
+## 🌟 Premium APIs
 
-* [💰 Pricing/Staking](premium-apis/pricing.md)
-* [💎 Premium Features](premium-apis/premium-apis.md)
-* [📊 Rate Limits](premium-apis/rate-limits.md)
+* [🌟 Premium APIs](premium-apis/premium-apis.md)
+* [💰 Pricing](premium-apis/pricing.md)
+* [⏱️ Rate Limits](premium-apis/rate-limits.md)
+
+## 📚 Help & Support
+
+* [❓ Frequently Asked Questions](faq.md)

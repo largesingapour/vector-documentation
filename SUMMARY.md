@@ -5,6 +5,7 @@
 * [🏠 Welcome to Vector GPT](README.md)
 * [📋 Overview](getting-started/overview/README.md)
   * [⚡ Quick Start Guide](getting-started/overview/quick-start.md)
+  * [💬 Example Queries](getting-started/overview/example-queries.md)
   * [💎 Complete Features & Capabilities](getting-started/overview/comprehensive-features.md)
   * [🏗️ Architecture](getting-started/overview/architecture/README.md)
     * [💬 vGPT Conversational Execution](getting-started/overview/architecture/vgpt-conversational-execution.md)

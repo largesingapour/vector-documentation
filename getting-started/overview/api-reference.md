@@ -6,27 +6,23 @@ description: Not yet live in MVP Beta
 
 Complete API documentation for integrating Vector GPT's blockchain intelligence into your applications. Our REST API provides programmatic access to all Vector GPT capabilities including real-time blockchain analysis, transaction preparation, and AI-powered insights.
 
-## 🚀 **Quick Start**
+## 🚀 **Getting Started**
 
-### Base URL
+### **Base URL**
 ```
-https://api.vectorai.pro/v1
+https://api.vector-ai.pro/v1
 ```
 
-### Authentication
-All API requests require authentication using your Vector AI API key:
+### **Quick Start**
+1. **Get API Key**: Sign up and get your API key from the dashboard
+2. **Visit**: https://vector-ai.pro/api-keys
+3. **Make Your First Request**:
 
 ```bash
-curl -H "Authorization: Bearer YOUR_API_KEY" \
-     -H "Content-Type: application/json" \
-     https://api.vectorai.pro/v1/analyze/contract/0x...
+curl -X GET "https://api.vector-ai.pro/v1/analyze/contract/0x..." \
+  -H "Authorization: Bearer YOUR_API_KEY" \
+  -H "Content-Type: application/json"
 ```
-
-### Get Your API Key
-1. **Stake VECTOR tokens** for your desired tier
-2. **Visit**: https://vector-ai.pro/api-keys
-3. **Generate** a new API key for your applications
-4. **Configure** rate limits and permissions
 
 ## 🔐 **Authentication & Rate Limits**
 
@@ -68,7 +64,7 @@ Analyze smart contracts for security, functionality, and risk assessment.
 
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
-     https://api.vectorai.pro/v1/analyze/contract/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
+     https://api.vector-ai.pro/v1/analyze/contract/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984
 ```
 
 **Response:**
@@ -109,7 +105,7 @@ Get comprehensive wallet information including balances, transaction history, an
 
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
-     https://api.vectorai.pro/v1/analyze/wallet/0x742d35Cc6416C40e68D1DE84A5F87e857C5BE03A
+     https://api.vector-ai.pro/v1/analyze/wallet/0x742d35Cc6416C40e68D1DE84A5F87e857C5BE03A
 ```
 
 **Response:**
@@ -156,7 +152,7 @@ Analyze any ERC20 token for price, liquidity, holder distribution, and security.
 
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
-     https://api.vectorai.pro/v1/analyze/token/VECTOR
+     https://api.vector-ai.pro/v1/analyze/token/VECTOR
 ```
 
 ## ⚡ **Transaction Endpoints**
@@ -178,7 +174,7 @@ curl -X POST \
        "slippage": 0.5,
        "recipient": "0x742d35Cc6416C40e68D1DE84A5F87e857C5BE03A"
      }' \
-     https://api.vectorai.pro/v1/transaction/prepare
+     https://api.vector-ai.pro/v1/transaction/prepare
 ```
 
 **Response:**
@@ -220,7 +216,7 @@ curl -X POST \
        "data": "0xa9059cbb...",
        "value": "0"
      }' \
-     https://api.vectorai.pro/v1/transaction/simulate
+     https://api.vector-ai.pro/v1/transaction/simulate
 ```
 
 ## 📊 **Market Data Endpoints**
@@ -232,7 +228,7 @@ Get current prices and market data for any token.
 
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
-     https://api.vectorai.pro/v1/market/price/ETH
+     https://api.vector-ai.pro/v1/market/price/ETH
 ```
 
 **Response:**
@@ -254,7 +250,7 @@ Monitor large wallet movements and whale activity.
 
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
-     https://api.vectorai.pro/v1/market/whales/VECTOR?min_amount=100000
+     https://api.vector-ai.pro/v1/market/whales/VECTOR?min_amount=100000
 ```
 
 ## 🤖 **AI-Powered Endpoints**
@@ -275,7 +271,7 @@ curl -X POST \
          "chain": "ethereum"
        }
      }' \
-     https://api.vectorai.pro/v1/ai/query
+     https://api.vector-ai.pro/v1/ai/query
 ```
 
 **Response:**
@@ -309,7 +305,7 @@ curl -X POST \
        "type": "portfolio_analysis",
        "address": "0x742d35Cc6416C40e68D1DE84A5F87e857C5BE03A"
      }' \
-     https://api.vectorai.pro/v1/ai/insights
+     https://api.vector-ai.pro/v1/ai/insights
 ```
 
 ## 🔔 **Webhook Endpoints**
@@ -331,7 +327,7 @@ curl -X POST \
          "min_amount_usd": 10000
        }
      }' \
-     https://api.vectorai.pro/v1/webhooks
+     https://api.vector-ai.pro/v1/webhooks
 ```
 
 **Webhook Payload Example:**
@@ -425,14 +421,14 @@ curl -X POST \
          {"method": "POST", "path": "/ai/query", "body": {"query": "..."}}
        ]
      }' \
-     https://api.vectorai.pro/v1/batch
+     https://api.vector-ai.pro/v1/batch
 ```
 
 ### Real-time WebSocket
 Connect to real-time data streams:
 
 ```javascript
-const ws = new WebSocket('wss://api.vectorai.pro/v1/ws');
+const ws = new WebSocket('wss://api.vector-ai.pro/v1/ws');
 ws.onopen = () => {
   ws.send(JSON.stringify({
     auth: 'YOUR_API_KEY',
@@ -447,7 +443,7 @@ ws.onopen = () => {
 
 - **API Status**: https://status.vector-ai.pro
 - **Postman Collection**: https://vector-ai.pro/postman
-- **OpenAPI Spec**: https://api.vectorai.pro/v1/openapi.json
+- **OpenAPI Spec**: https://api.vector-ai.pro/v1/openapi.json
 - **Developer Community**: https://t.me/vectorai_tg
 - **Rate Limit Dashboard**: https://vector-ai.pro/usage
 

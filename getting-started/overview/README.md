@@ -99,7 +99,7 @@ Technical documentation and integration guides:
 ## 🌐 **Access Methods**
 
 ### **Web Interface**
-- **URL**: [chat.vectorai.pro](https://chat.vectorai.pro)
+- **URL**: [vector-ai.pro](https://vector-ai.pro)
 - **Best for**: Interactive analysis and complex operations
 - **Features**: Full conversational AI with visual analytics
 
@@ -129,7 +129,7 @@ Technical documentation and integration guides:
 
 ## 🚀 **Ready to Start?**
 
-1. **[Try Vector GPT](https://chat.vectorai.pro)** - Start with our web interface
+1. **[Try Vector GPT](https://vector-ai.pro)** - Start with our web interface
 2. **[Join Telegram](https://t.me/vectorai_tg)** - Connect with the community
 3. **[Stake VECTOR](../../token-and-economics/staking.md)** - Unlock premium features
 

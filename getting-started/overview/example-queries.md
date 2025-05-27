@@ -264,7 +264,7 @@ Predict the best time to execute this transaction
 
 ## 🚀 **Ready to Try?**
 
-Visit [chat.vectorai.pro](https://chat.vectorai.pro) and start with any of these examples!
+Visit [vector-ai.pro](https://vector-ai.pro) and start with any of these examples!
 
 **Need help?** Join our [Telegram community](https://t.me/vectorai_tg) for support and more examples.
 

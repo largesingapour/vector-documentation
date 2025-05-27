@@ -9,7 +9,7 @@ Welcome to Vector GPT! Get up and running in minutes with our comprehensive AI p
 **Best for:** Interactive analysis, research, and complex queries
 
 1. **Access the Platform**
-   * Visit [chat.vectorai.pro](https://chat.vectorai.pro)
+   * Visit [vector-ai.pro](https://vector-ai.pro)
    * No registration required for basic access
 
 2. **Try Your First Queries**

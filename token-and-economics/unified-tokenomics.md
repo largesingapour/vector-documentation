@@ -31,11 +31,12 @@
 
 ## 🏆 **Staking Tiers**
 
-| Tier | Staking Required | Key Benefits |
-|------|------------------|--------------|
-| **Bronze** | 100,000 VECTOR | Enhanced features, 10s cooldown |
-| **Silver** | 1,000,000 VECTOR | Premium APIs, 5s cooldown |
-| **Gold** | 10,000,000 VECTOR | Unlimited access, no cooldowns |
+| Tier | Staking Required | Rate Limits | Key Benefits |
+|------|------------------|-------------|--------------|
+| **Free** | 0 VECTOR | 1/30s, 50 calls/day | Basic features only |
+| **Bronze** | 100,000 VECTOR | 1/10s, 500 calls/day | Enhanced features, custom alerts |
+| **Silver** | 1,000,000 VECTOR | 1/5s, 2,500 calls/day | Premium APIs, advanced analytics |
+| **Gold** | 10,000,000 VECTOR | Unlimited | All features, custom features |
 
 ## 💎 **Token Utility**
 

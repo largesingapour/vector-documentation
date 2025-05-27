@@ -87,12 +87,12 @@ Technical documentation and integration guides:
 
 ## 🏆 **Access Tiers**
 
-| Tier | Requirements | Benefits |
-|------|-------------|----------|
-| **Free** | No staking | Basic features, 50 queries/day |
-| **Bronze** | 100K VECTOR | Enhanced features, 500 queries/day |
-| **Silver** | 1M VECTOR | Premium APIs, 2,500 queries/day |
-| **Gold** | 10M VECTOR | Unlimited access, all features |
+| Tier | Requirements | Rate Limits | Benefits |
+|------|-------------|-------------|----------|
+| **Free** | No staking | 1/30s, 50 queries/day | Basic features |
+| **Bronze** | 100K VECTOR | 1/10s, 500 queries/day | Enhanced features |
+| **Silver** | 1M VECTOR | 1/5s, 2,500 queries/day | Premium APIs |
+| **Gold** | 10M VECTOR | Unlimited | All features |
 
 **[Learn more about staking →](../../token-and-economics/staking.md)**
 

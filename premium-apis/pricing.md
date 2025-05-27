@@ -89,7 +89,7 @@ Vector GPT offers a revolutionary blockchain AI assistant with tiered access bas
 **All Silver Features Plus:**
 
 * **Full API Access**: Unlimited access to ALL premium and high-cost API endpoints
-* **Enterprise Rate Limits**: No message cooldown, 25,000 API calls per day
+* **Enterprise Rate Limits**: No message cooldown, unlimited API calls per day
 * **White-glove Support**: Dedicated account manager and phone support
 * **Custom Model Training**: Personalized AI model fine-tuning
 * **Enterprise Integration**: Custom API endpoints and webhooks

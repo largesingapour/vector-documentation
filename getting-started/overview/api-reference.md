@@ -30,9 +30,10 @@ curl -X GET "https://api.vector-ai.pro/v1/analyze/contract/0x..." \
 
 | Tier | Required Staking | Rate Limit | Features |
 |------|------------------|------------|----------|
+| **Free** | 0 VECTOR | 50 calls/day | Basic endpoints only |
 | **Bronze** | 100,000 VECTOR | 500 calls/day | Basic endpoints |
 | **Silver** | 1,000,000 VECTOR | 2,500 calls/day | Premium data sources |
-| **Gold** | 10,000,000 VECTOR | 25,000 calls/day | Unlimited access |
+| **Gold** | 10,000,000 VECTOR | Unlimited | All features, unlimited access |
 
 ### Headers
 ```http

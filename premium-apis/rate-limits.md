@@ -19,7 +19,7 @@ description: Rate Limits may change without notice.
 | Feature             | Free   | Bronze       | Silver     | Gold      |
 | ------------------- | ------ | ------------ | ---------- | --------- |
 | Chat Messages       | 1/30s  | 1/10s        | 1/5s       | Unlimited |
-| API Calls/Day       | 50     | 500          | 2,500      | 25,000    |
+| API Calls/Day       | 50     | 500          | 2,500      | Unlimited |
 | Concurrent Requests | 1      | 3            | 10         | 50        |
 | Data Retention      | 7 days | 30 days      | 90 days    | 1 year    |
 | Export Limits       | None   | 100 MB/month | 1 GB/month | Unlimited |

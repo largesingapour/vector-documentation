@@ -1,8 +1,8 @@
-# 💬 Example Queries for Vector GPT
+# Example Queries for Vector GPT
 
 Copy and paste these examples to get started with Vector GPT.
 
-## 🔍 **Analysis & Research**
+## **Analysis & Research**
 
 ### Smart Contract Analysis
 ```
@@ -25,7 +25,7 @@ Check if this token is a honeypot
 Analyze the holder distribution for VECTOR
 ```
 
-## ⚡ **Blockchain Interactions**
+## **Blockchain Interactions**
 
 ### Basic Operations
 ```
@@ -40,7 +40,7 @@ Approve USDC spending for Uniswap router
 Revoke all approvals for this suspicious contract
 ```
 
-## 🚀 **DeFi Operations**
+## **DeFi Operations**
 
 ### Token Swaps
 ```
@@ -61,7 +61,7 @@ Lend 1000 USDC on Compound
 Check my liquidation risk on Aave
 ```
 
-## 🔗 **Cross-Chain Operations**
+## **Cross-Chain Operations**
 
 ```
 Bridge 0.01 ETH to BASE
@@ -69,7 +69,7 @@ Move 100 USDC from Ethereum to Polygon
 Check my balances across all chains
 ```
 
-## 🏭 **Smart Contract Deployment**
+## **Smart Contract Deployment**
 
 ```
 Deploy ERC20 token with name "Test" and symbol "TEST"
@@ -77,7 +77,7 @@ Create an ERC721 NFT collection called "My Collection"
 Deploy a simple multisig wallet
 ```
 
-## 📊 **Market Intelligence**
+## **Market Intelligence**
 
 ### Price & Data
 ```
@@ -92,7 +92,7 @@ Show me whale movements for PEPE token
 Track large ETH transactions in the last hour
 ```
 
-## 🎯 **Portfolio Management**
+## **Portfolio Management**
 
 ```
 Show my complete portfolio breakdown
@@ -100,7 +100,7 @@ Calculate my portfolio performance this month
 Suggest portfolio rebalancing strategies
 ```
 
-## 🚨 **Security & Risk**
+## **Security & Risk**
 
 ```
 Is this contract safe to interact with?
@@ -108,7 +108,7 @@ Scan my wallet for risky tokens
 Check if this website is a phishing site
 ```
 
-## 💡 **Pro Tips**
+## **Pro Tips**
 
 - **Be Specific**: Use exact contract addresses when possible
 - **Natural Language**: Vector GPT understands conversational commands
@@ -116,14 +116,14 @@ Check if this website is a phishing site
 
 ---
 
-## 🚀 **Ready to Try?**
+## **Ready to Try?**
 
 Visit [vector-ai.pro](https://vector-ai.pro) and start with any of these examples!
 
 ---
 
-## 🌐 **Official Links**
+## **Official Links**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg 
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg 

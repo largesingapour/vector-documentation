@@ -1,8 +1,8 @@
-# ⚡ Quick Start
+# Quick Start
 
 Get up and running with Vector GPT in minutes.
 
-## 🌐 **Web Interface**
+## **Web Interface**
 
 **Best for:** Interactive analysis and complex queries
 
@@ -36,7 +36,7 @@ Bridge 0.01 ETH to BASE
 Check my balances across all chains
 ```
 
-## 🤖 **Telegram Bot**
+## **Telegram Bot**
 
 <mark style="color:red;">Coming Soon</mark>
 
@@ -51,19 +51,19 @@ Check my balances across all chains
    /tip @user [amount] - Send VECTOR tokens
    ```
 
-## 💡 **Pro Tips**
+## **Pro Tips**
 
 - **Natural Language**: Use conversational commands
 - **Safety First**: Always review transactions before confirming
 - **Start Small**: Use small amounts when testing
 
-## 🔐 **Security**
+## **Security**
 
 - Never share private keys
 - Always simulate transactions first
 - Verify contract addresses before interacting
 
-## 🚀 **Next Steps**
+## **Next Steps**
 
 1. **[Explore Features](comprehensive-features.md)** - See all capabilities
 2. **[Staking Guide](../../token-and-economics/staking.md)** - Unlock premium features
@@ -71,8 +71,8 @@ Check my balances across all chains
 
 ---
 
-## 🌐 **Official Links**
+## **Official Links**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg

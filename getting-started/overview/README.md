@@ -1,55 +1,55 @@
-# 🧠 Vector AI Overview
+# Vector AI Overview
 
 Vector AI is a blockchain intelligence platform featuring Vector GPT - an AI-powered chatbot that combines natural language processing with real-time blockchain data for intelligent analysis and transaction execution.
 
-## 🚀 **What is Vector GPT?**
+## **What is Vector GPT?**
 
 Vector GPT is an AI chatbot that understands blockchain operations and helps you:
 
-- **🔍 Analyze** smart contracts, transactions, and wallet activities
-- **⚡ Execute** blockchain transactions with natural language commands  
-- **📊 Monitor** market trends, whale movements, and DeFi opportunities
-- **🏭 Deploy** smart contracts and manage DeFi strategies
-- **🔗 Bridge** assets across multiple blockchain networks
+- **Analyze** smart contracts, transactions, and wallet activities
+- **Execute** blockchain transactions with natural language commands  
+- **Monitor** market trends, whale movements, and DeFi opportunities
+- **Deploy** smart contracts and manage DeFi strategies
+- **Bridge** assets across multiple blockchain networks
 
-## 🎯 **Quick Start**
+## **Quick Start**
 
 ### **New Users**
-1. **[⚡ Quick Start Guide](quick-start.md)** - Get started in minutes
-2. **[💬 Example Queries](example-queries.md)** - Try sample commands
-3. **[💎 Complete Features](comprehensive-features.md)** - Explore all capabilities
+1. **[Quick Start Guide](quick-start.md)** - Get started in minutes
+2. **[Example Queries](example-queries.md)** - Try sample commands
+3. **[Complete Features](comprehensive-features.md)** - Explore all capabilities
 
 ### **Developers**
-1. **[🔧 API Reference](api-reference.md)** - Complete API documentation
-2. **[🏗️ Architecture](architecture/README.md)** - System overview
-3. **[📋 Use Cases](use-cases.md)** - Implementation examples
+1. **[API Reference](api-reference.md)** - Complete API documentation
+2. **[Architecture](architecture/README.md)** - System overview
+3. **[Use Cases](use-cases.md)** - Implementation examples
 
-## 💡 **Key Features**
+## **Key Features**
 
-### **🤖 AI-Powered Interface**
+### **AI-Powered Interface**
 - Natural language processing for blockchain operations
 - Context-aware conversations with memory
 - Multi-step workflow automation
 - Error prevention and transaction simulation
 
-### **🔗 Multi-Chain Support**
+### **Multi-Chain Support**
 - Ethereum, Polygon, BSC, Arbitrum, Optimism, Base
 - Cross-chain asset bridging and analysis
 - Real-time gas fee optimization
 
-### **🔐 Security First**
+### **Security First**
 - Never auto-executes transactions
 - Smart contract security scanning
 - Phishing and rug pull detection
 - Multi-signature wallet support
 
-### **📊 Real-Time Intelligence**
+### **Real-Time Intelligence**
 - Live blockchain data (not cached)
 - Whale movement tracking and alerts
 - Market sentiment analysis
 - DeFi yield optimization
 
-## 🎯 **Popular Use Cases**
+## **Popular Use Cases**
 
 ### **For Traders**
 ```
@@ -79,7 +79,7 @@ Vector GPT is an AI chatbot that understands blockchain operations and helps you
 "Show me the transaction history for vitalik.eth"
 ```
 
-## 🏆 **Access Tiers**
+## **Access Tiers**
 
 | Tier | Requirements | Rate Limits | Benefits |
 |------|-------------|-------------|----------|
@@ -90,7 +90,7 @@ Vector GPT is an AI chatbot that understands blockchain operations and helps you
 
 **[Learn more about staking →](../../token-and-economics/staking.md)**
 
-## 🌐 **Access Methods**
+## **Access Methods**
 
 ### **Web Interface**
 - **URL**: [vector-ai.pro](https://vector-ai.pro)
@@ -104,13 +104,13 @@ Vector GPT is an AI chatbot that understands blockchain operations and helps you
 - **Documentation**: [API Reference](api-reference.md)
 - **Best for**: Programmatic integration and automation
 
-## 🔐 **Safety & Security**
+## **Safety & Security**
 
 ### **Your Security is Our Priority**
-- ✅ **Never requests private keys** - Only reads public blockchain data
-- ✅ **Manual confirmation required** - No automatic transaction execution
-- ✅ **Smart contract auditing** - Automated security scanning
-- ✅ **Phishing protection** - Malicious contract detection
+- Never requests private keys - Only reads public blockchain data
+- Manual confirmation required - No automatic transaction execution
+- Smart contract auditing - Automated security scanning
+- Phishing protection - Malicious contract detection
 
 ### **Best Practices**
 - Always review transaction details before confirming
@@ -118,7 +118,7 @@ Vector GPT is an AI chatbot that understands blockchain operations and helps you
 - Verify contract addresses before interacting
 - Use simulation mode for complex operations
 
-## 🚀 **Ready to Start?**
+## **Ready to Start?**
 
 1. **[Try Vector GPT](https://vector-ai.pro)** - Start with our web interface
 2. **[Join Telegram](https://t.me/vectorai_tg)** - Connect with the community
@@ -126,17 +126,17 @@ Vector GPT is an AI chatbot that understands blockchain operations and helps you
 
 ---
 
-## 📞 **Need Help?**
+## **Need Help?**
 
-- **💬 Community**: [Telegram](https://t.me/vectorai_tg)
-- **📧 Support**: team@vector-ai.pro
-- **❓ FAQ**: [Frequently Asked Questions](../../faq.md)
+- **Community**: [Telegram](https://t.me/vectorai_tg)
+- **Support**: team@vector-ai.pro
+- **FAQ**: [Frequently Asked Questions](../../faq.md)
 
 ---
 
-## 🌐 **Official Links**
+## **Official Links**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg
-- **📧 Email**: team@vector-ai.pro 
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg
+- **Email**: team@vector-ai.pro 

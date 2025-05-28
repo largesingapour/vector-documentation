@@ -1,8 +1,8 @@
-# 💎 Vector GPT Features
+# Vector GPT Features
 
 Vector GPT is a blockchain-connected AI assistant that combines real-time blockchain data with AI reasoning for intelligent analysis and transaction capabilities.
 
-## 🔍 **Blockchain Intelligence**
+## **Blockchain Intelligence**
 
 ### Smart Contract Analysis
 - Function mapping and ABI retrieval
@@ -16,7 +16,7 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 - Portfolio performance tracking
 - Automated risk assessment
 
-## ⚡ **Transaction Capabilities**
+## **Transaction Capabilities**
 
 ### DeFi Operations
 - Token swaps with optimal routing and MEV protection
@@ -30,7 +30,7 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 - Gas optimization and fee prediction
 - Batch transaction processing
 
-## 📊 **Market Intelligence**
+## **Market Intelligence**
 
 ### Real-time Data
 - Current prices, market cap, and volume tracking
@@ -44,7 +44,7 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 - Yield optimization across DeFi protocols
 - DAO governance tracking
 
-## 🤖 **AI-Powered Features**
+## **AI-Powered Features**
 
 ### Conversational Interface
 - Natural language blockchain operations
@@ -58,7 +58,7 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 - Portfolio rebalancing recommendations
 - Continuous security monitoring
 
-## 🔐 **Security Features**
+## **Security Features**
 
 ### Transaction Safety
 - Preview outcomes before execution
@@ -72,7 +72,7 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 - Complete audit trails
 - Automated compliance assessment
 
-## 🌐 **Multi-Chain Support**
+## **Multi-Chain Support**
 
 **Supported Networks:**
 - Ethereum (full EVM compatibility)
@@ -80,7 +80,7 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 - Other chains: BSC, Avalanche, Fantom
 - Cross-chain routing and bridging
 
-## 📱 **Access Methods**
+## **Access Methods**
 
 ### Web Interface
 - Interactive chat with full AI execution
@@ -102,7 +102,7 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 
 ---
 
-## 🎯 **Key Differentiators**
+## **Key Differentiators**
 
 - **Real-time Data**: Live blockchain state, not cached data
 - **Transaction Safety**: Never auto-executes, always requires confirmation
@@ -111,8 +111,8 @@ Vector GPT is a blockchain-connected AI assistant that combines real-time blockc
 
 ---
 
-## 🌐 **Get Started Today**
+## **Get Started Today**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg 
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg 

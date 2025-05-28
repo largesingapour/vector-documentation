@@ -1,8 +1,8 @@
-# ❓ Frequently Asked Questions
+# Frequently Asked Questions
 
-Quick answers to common questions about VECTOR AI and our Vector GPT chatbot. For detailed information, see our [documentation sections](#-documentation-links).
+Quick answers to common questions about VECTOR AI and our Vector GPT chatbot. For detailed information, see our [documentation sections](#documentation-links).
 
-## 🚀 **Platform Basics**
+## **Platform Basics**
 
 ### What is VECTOR AI?
 VECTOR AI is a blockchain intelligence company that developed Vector GPT, an AI-powered chatbot for blockchain analysis and transaction capabilities. Our Vector GPT chatbot combines GPT AI with real-time blockchain data for intelligent analysis and automation.
@@ -16,7 +16,7 @@ Ethereum, Polygon, BSC, Arbitrum, Optimism, Base. More chains coming soon.
 ### Is it free to use?
 Yes! Free tier includes 50 queries/day with basic features. Premium tiers require VECTOR staking.
 
-## 💰 **Token & Economics**
+## **Token & Economics**
 
 ### How are tokens allocated?
 - **70%** Liquidity (locked 12+ months)
@@ -36,7 +36,7 @@ Yes! Free tier includes 50 queries/day with basic features. Premium tiers requir
 ### Is liquidity locked?
 Yes! **70% locked for 12+ months** via Unicrypt/Team.Finance to prevent rug pulls.
 
-## 🤖 **Telegram Bot**
+## **Telegram Bot**
 
 ### How do I add the bot?
 Search `@VectorAIBot` on Telegram, send `/start`, connect your wallet, and verify staking for premium features.
@@ -47,7 +47,7 @@ Yes! Use `/tip @username [amount]` to send VECTOR tokens instantly.
 ### What's the difference between tiers?
 Higher tiers get faster response times, more API calls, advanced analytics, and custom features.
 
-## 🔧 **Technical**
+## **Technical**
 
 ### Is my wallet secure?
 Absolutely. Vector never requests private keys, only reads public blockchain data, and requires manual confirmation for all transactions.
@@ -58,7 +58,7 @@ Vector uses real-time blockchain data, multiple sources, and confidence scoring.
 ### Can it execute transactions automatically?
 No. Vector only prepares transactions - you must manually approve everything for maximum security.
 
-## 🛠️ **Troubleshooting**
+## **Troubleshooting**
 
 ### Bot not responding?
 1. Send `/status` to check bot health
@@ -75,7 +75,7 @@ No. Vector only prepares transactions - you must manually approve everything for
 ### API errors?
 Check daily limits, verify API status, ensure correct address format, try again in a few minutes.
 
-## 📞 **Getting Help**
+## **Getting Help**
 
 ### Support Channels
 - **Telegram**: https://t.me/vectorai_tg
@@ -90,24 +90,24 @@ Check daily limits, verify API status, ensure correct address format, try again 
 
 ---
 
-## 📚 **Documentation Links**
+## **Documentation Links**
 
 **Detailed Guides:**
-- **[🏆 Staking Guide](token-and-economics/staking.md)** - Complete staking information
-- **[🎁 Rewards System](token-and-economics/rewards.md)** - How rewards work
-- **[🤖 Telegram Bot](vector-bot-telegram/telegram-bot.md)** - Full bot features
-- **[🔧 API Reference](getting-started/overview/api-reference.md)** - Developer documentation
+- **[Staking Guide](token-and-economics/staking.md)** - Complete staking information
+- **[Rewards System](token-and-economics/rewards.md)** - How rewards work
+- **[Telegram Bot](vector-bot-telegram/telegram-bot.md)** - Full bot features
+- **[API Reference](getting-started/overview/api-reference.md)** - Developer documentation
 
 **Quick Links:**
-- **[💰 Tokenomics](token-and-economics/unified-tokenomics.md)** - Token allocation and economics
-- **[⚡ Quick Start](getting-started/overview/quick-start.md)** - Get started in minutes
-- **[💎 Features](getting-started/overview/comprehensive-features.md)** - All platform capabilities
+- **[Tokenomics](token-and-economics/unified-tokenomics.md)** - Token allocation and economics
+- **[Quick Start](getting-started/overview/quick-start.md)** - Get started in minutes
+- **[Features](getting-started/overview/comprehensive-features.md)** - All platform capabilities
 
 ---
 
-## 🌐 **Official Links**
+## **Official Links**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x  
-- **💬 Telegram**: https://t.me/vectorai_tg
-- **📧 Email**: team@vector-ai.pro 
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x  
+- **Telegram**: https://t.me/vectorai_tg
+- **Email**: team@vector-ai.pro 

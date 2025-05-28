@@ -2,11 +2,11 @@
 description: Not yet live in MVP Beta
 ---
 
-# 🔧 Vector GPT API Reference
+# Vector GPT API Reference
 
 REST API for integrating Vector GPT's blockchain intelligence into your applications.
 
-## 🚀 **Getting Started**
+## **Getting Started**
 
 **Base URL**: `https://api.vector-ai.pro/v1`
 
@@ -18,7 +18,7 @@ Content-Type: application/json
 
 **Get API Key**: Sign up at https://vector-ai.pro/api-keys
 
-## 🔐 **Rate Limits**
+## **Rate Limits**
 
 | Tier | Staking Required | Daily Limit | Features |
 |------|------------------|-------------|----------|
@@ -27,7 +27,7 @@ Content-Type: application/json
 | **Silver** | 1M VECTOR | 2,500 calls | Premium APIs |
 | **Gold** | 10M VECTOR | Unlimited | All features |
 
-## 🔍 **Core Endpoints**
+## **Core Endpoints**
 
 ### Contract Analysis
 ```bash
@@ -54,7 +54,7 @@ GET /market/whales/{token}
 ```
 Real-time prices and whale movement tracking.
 
-## ⚡ **Transaction Endpoints**
+## **Transaction Endpoints**
 
 ### Prepare Transaction
 ```bash
@@ -68,7 +68,7 @@ POST /transaction/simulate
 ```
 Tests transaction outcomes before execution.
 
-## 🤖 **AI Endpoints**
+## **AI Endpoints**
 
 ### Natural Language Query
 ```bash
@@ -82,7 +82,7 @@ POST /ai/insights
 ```
 AI-generated analysis for portfolios and market conditions.
 
-## 📚 **SDKs**
+## **SDKs**
 
 ### JavaScript
 ```bash
@@ -108,14 +108,14 @@ client = VectorAI(api_key='YOUR_API_KEY')
 token_data = client.analyze_token('VECTOR')
 ```
 
-## 📋 **Error Codes**
+## **Error Codes**
 
 - `INVALID_API_KEY` - Check your API key
 - `RATE_LIMIT_EXCEEDED` - Upgrade tier or wait
 - `INSUFFICIENT_TIER` - Stake more VECTOR tokens
 - `INVALID_ADDRESS` - Check address format
 
-## 📞 **Resources**
+## **Resources**
 
 - **API Status**: https://status.vector-ai.pro
 - **OpenAPI Spec**: https://api.vector-ai.pro/v1/openapi.json
@@ -123,8 +123,8 @@ token_data = client.analyze_token('VECTOR')
 
 ---
 
-## 🌐 **Official Links**
+## **Official Links**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg

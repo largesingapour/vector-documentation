@@ -4,11 +4,11 @@ description: >-
   out.
 ---
 
-# 🤖 Bot Overview
+# Bot Overview
 
 Vector GPT's Telegram bot brings blockchain intelligence directly to your Telegram chats for community management, portfolio tracking, and DeFi operations.
 
-## 🎯 **Core Features**
+## **Core Features**
 
 ### Community Management
 - AI-powered spam detection and moderation
@@ -28,7 +28,7 @@ Vector GPT's Telegram bot brings blockchain intelligence directly to your Telegr
 - Token research and risk scoring
 - Gas price optimization
 
-## 📱 **Bot Modes**
+## **Bot Modes**
 
 ### Private Chat
 - Personal AI assistant for blockchain guidance
@@ -42,7 +42,7 @@ Vector GPT's Telegram bot brings blockchain intelligence directly to your Telegr
 - Automated moderation tools
 - Educational DeFi explanations
 
-## 🔧 **Essential Commands**
+## **Essential Commands**
 
 ### Basic Commands
 ```
@@ -73,7 +73,7 @@ Vector GPT's Telegram bot brings blockchain intelligence directly to your Telegr
 /yield [token] - Find farming opportunities
 ```
 
-## 🏆 **Premium Tiers**
+## **Premium Tiers**
 
 | Tier | Staking Required | Rate Limits | Features |
 |------|------------------|-------------|----------|
@@ -81,14 +81,14 @@ Vector GPT's Telegram bot brings blockchain intelligence directly to your Telegr
 | **Silver** | 1M VECTOR | 1/5s | Real-time alerts, advanced analytics |
 | **Gold** | 10M VECTOR | Unlimited | Custom features, priority support |
 
-## 🔒 **Security**
+## **Security**
 
 - **Encrypted Communications**: All data encrypted in transit
 - **No Private Keys**: Bot never stores or requests private keys
 - **Read-Only Analysis**: Only reads blockchain data
 - **User Confirmation**: All transactions require manual approval
 
-## 🚀 **Getting Started**
+## **Getting Started**
 
 1. **Add Bot**: Search [@VectorAIBot](https://t.me/VectorAIBot)
 2. **Initialize**: Send `/start`
@@ -97,8 +97,8 @@ Vector GPT's Telegram bot brings blockchain intelligence directly to your Telegr
 
 ---
 
-## 🌐 **Official Links**
+## **Official Links**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg

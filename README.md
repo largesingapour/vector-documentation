@@ -1,16 +1,16 @@
-# 🧠 VECTOR AI - AI-Powered Blockchain Intelligence
+# VECTOR AI - AI-Powered Blockchain Intelligence
 
 **Company**: VECTOR AI | **Product**: Vector GPT Chatbot | **Token**: VECTOR
 
 VECTOR AI is a blockchain intelligence company that developed Vector GPT, an advanced AI chatbot designed for DeFi automation and blockchain analysis. Our flagship product bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics and transaction capabilities.
 
-## 🎉 VECTOR Token - Now Live!
+## VECTOR Token - Now Live!
 
 **Contract Address**: `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`  
 **Network**: Ethereum Mainnet  
 **Etherscan**: [View Contract](https://etherscan.io/token/0x569Dd3298E114Da858415ee5672C8F2AB57938Bf)
 
-## 🚀 **What is VECTOR AI?**
+## **What is VECTOR AI?**
 
 VECTOR AI is the company behind Vector GPT, a conversational AI chatbot that understands blockchain operations and can help you:
 
@@ -18,7 +18,7 @@ VECTOR AI is the company behind Vector GPT, a conversational AI chatbot that und
 
 Vector GPT is a blockchain-connected GPT-style bot designed for advanced DeFi automation and intelligence. It bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics, transaction capabilities, and automation directly through Telegram or web chat.
 
-## 🎯 Core Features:
+## Core Features:
 
 **AI Assistant with Blockchain Connectivity**
 
@@ -27,13 +27,13 @@ Vector GPT is a blockchain-connected GPT-style bot designed for advanced DeFi au
 * Staking and token-gated access to premium tools
 * Developer-friendly API integrations for custom logic flows
 
-**🔐 Secure & Transparent**
+**Secure & Transparent**
 * 70% liquidity locked for 12+ months
 * Team tokens vested with 3-month cliff + 18-month linear release
 * 5% balanced buy/sell tax structure
 * Multisig-controlled fund management
 
-## 🚀 How It Works
+## How It Works
 
 Here's the process flow:
 
@@ -51,21 +51,21 @@ Here's the process flow:
 
 ---
 
-## 🌐 Official Links
+## Official Links
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg
-- **📧 Email**: team@vector-ai.pro
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg
+- **Email**: team@vector-ai.pro
 
 ---
 
-## 📚 Documentation Sections
+## Documentation Sections
 
-- **[🚀 Getting Started](getting-started/overview/README.md)** - Quick start guide and platform overview
-- **[💰 Token & Economics](token-and-economics/unified-tokenomics.md)** - Complete tokenomics and allocation details
-- **[🤖 Telegram Bot](vector-bot-telegram/telegram-bot.md)** - Community features and bot commands  
-- **[🌟 Premium APIs](premium-apis/premium-apis.md)** - Advanced features and pricing
-- **[❓ FAQ](faq.md)** - Frequently asked questions and support
+- **[Getting Started](getting-started/overview/README.md)** - Quick start guide and platform overview
+- **[Token & Economics](token-and-economics/unified-tokenomics.md)** - Complete tokenomics and allocation details
+- **[Telegram Bot](vector-bot-telegram/telegram-bot.md)** - Community features and bot commands  
+- **[Premium APIs](premium-apis/premium-apis.md)** - Advanced features and pricing
+- **[FAQ](faq.md)** - Frequently asked questions and support
 
 <!-- GitBook sync trigger - Updated: January 2025 -->

@@ -32,8 +32,11 @@
 * [💰 Pricing](premium-apis/pricing.md)
 * [⏱️ Rate Limits](premium-apis/rate-limits.md)
 
-## 📚 Help & Support
+## 🏢 Company & Vision
 
 * [🗺️ Roadmap](roadmap.md)
 * [🚀 Launch Plan](vector-gpt-launch-plan.md)
+
+## 📚 Help & Support
+
 * [❓ Frequently Asked Questions](faq.md)

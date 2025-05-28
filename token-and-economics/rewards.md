@@ -1,6 +1,6 @@
 # 🎁 Rewards System
 
-How Vector GPT rewards token holders and active community members.
+How VECTOR AI rewards token holders and active community members through our Vector GPT platform.
 
 ## 💰 **Reward Sources**
 

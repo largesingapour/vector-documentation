@@ -1,8 +1,8 @@
-# 📚 Vector GPT Documentation
+# 📚 VECTOR AI Documentation
 
 ## 🚀 Getting Started
 
-* [🏠 Welcome to Vector GPT](README.md)
+* [🏠 Welcome to VECTOR AI](README.md)
 * [📋 Overview](getting-started/overview/README.md)
   * [⚡ Quick Start Guide](getting-started/overview/quick-start.md)
   * [💬 Example Queries](getting-started/overview/example-queries.md)

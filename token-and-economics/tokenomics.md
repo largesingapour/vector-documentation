@@ -17,7 +17,6 @@
 #### Anti-Whale Mechanics
 
 * **Max Wallet**: 1% of total supply (10,000,000 VECTOR) per address
-* **Max Transaction**: 0.5% of total supply (5,000,000 VECTOR) per transaction
 * **Progressive Tax**: Higher tax rates for large transactions (implementation planned)
 
 ***

@@ -1,32 +1,27 @@
-# 📋 Vector GPT Overview
+# 🧠 Vector AI Overview
 
-Welcome to Vector GPT - the most advanced AI-powered blockchain intelligence platform. Combine the power of GPT AI with real-time blockchain data for intelligent analysis, automation, and transaction execution.
+Vector AI is a blockchain intelligence platform featuring Vector GPT - an AI-powered chatbot that combines natural language processing with real-time blockchain data for intelligent analysis and transaction execution.
 
 ## 🚀 **What is Vector GPT?**
 
-Vector GPT is a conversational AI assistant that understands blockchain operations and can help you:
+Vector GPT is an AI chatbot that understands blockchain operations and helps you:
 
 - **🔍 Analyze** smart contracts, transactions, and wallet activities
 - **⚡ Execute** blockchain transactions with natural language commands  
 - **📊 Monitor** market trends, whale movements, and DeFi opportunities
-- **🏭 Deploy** smart contracts and manage complex DeFi strategies
+- **🏭 Deploy** smart contracts and manage DeFi strategies
 - **🔗 Bridge** assets across multiple blockchain networks
-- **🎯 Optimize** your portfolio and track performance
 
-## 🎯 **Getting Started**
+## 🎯 **Quick Start**
 
-### **New to Vector GPT?**
-Start here to get up and running quickly:
-
+### **New Users**
 1. **[⚡ Quick Start Guide](quick-start.md)** - Get started in minutes
-2. **[💬 Example Queries](example-queries.md)** - Try these sample commands
+2. **[💬 Example Queries](example-queries.md)** - Try sample commands
 3. **[💎 Complete Features](comprehensive-features.md)** - Explore all capabilities
 
-### **For Developers**
-Technical documentation and integration guides:
-
+### **Developers**
 1. **[🔧 API Reference](api-reference.md)** - Complete API documentation
-2. **[🏗️ Architecture](architecture/README.md)** - System architecture overview
+2. **[🏗️ Architecture](architecture/README.md)** - System overview
 3. **[📋 Use Cases](use-cases.md)** - Implementation examples
 
 ## 💡 **Key Features**
@@ -40,7 +35,6 @@ Technical documentation and integration guides:
 ### **🔗 Multi-Chain Support**
 - Ethereum, Polygon, BSC, Arbitrum, Optimism, Base
 - Cross-chain asset bridging and analysis
-- Universal routing for optimal execution
 - Real-time gas fee optimization
 
 ### **🔐 Security First**
@@ -50,7 +44,7 @@ Technical documentation and integration guides:
 - Multi-signature wallet support
 
 ### **📊 Real-Time Intelligence**
-- Live blockchain data, not cached information
+- Live blockchain data (not cached)
 - Whale movement tracking and alerts
 - Market sentiment analysis
 - DeFi yield optimization
@@ -89,9 +83,9 @@ Technical documentation and integration guides:
 
 | Tier | Requirements | Rate Limits | Benefits |
 |------|-------------|-------------|----------|
-| **Free** | No staking | 1/30s, 50 queries/day | Basic features |
-| **Bronze** | 100K VECTOR | 1/10s, 500 queries/day | Enhanced features |
-| **Silver** | 1M VECTOR | 1/5s, 2,500 queries/day | Premium APIs |
+| **Free** | No staking | 1/30s, 50/day | Basic features |
+| **Bronze** | 100K VECTOR | 1/10s, 500/day | Enhanced features |
+| **Silver** | 1M VECTOR | 1/5s, 2,500/day | Premium APIs |
 | **Gold** | 10M VECTOR | Unlimited | All features |
 
 **[Learn more about staking →](../../token-and-economics/staking.md)**
@@ -101,17 +95,14 @@ Technical documentation and integration guides:
 ### **Web Interface**
 - **URL**: [vector-ai.pro](https://vector-ai.pro)
 - **Best for**: Interactive analysis and complex operations
-- **Features**: Full conversational AI with visual analytics
 
 ### **Telegram Bot**
 - **Bot**: [@VectorAIBot](https://t.me/VectorAIBot)
 - **Best for**: Mobile access and community management
-- **Features**: Real-time alerts, tipping, group integration
 
 ### **API Access**
 - **Documentation**: [API Reference](api-reference.md)
 - **Best for**: Programmatic integration and automation
-- **Features**: RESTful endpoints, WebSocket streams, SDKs
 
 ## 🔐 **Safety & Security**
 
@@ -140,7 +131,6 @@ Technical documentation and integration guides:
 - **💬 Community**: [Telegram](https://t.me/vectorai_tg)
 - **📧 Support**: team@vector-ai.pro
 - **❓ FAQ**: [Frequently Asked Questions](../../faq.md)
-- **📚 Docs**: Browse the sections in this documentation
 
 ---
 

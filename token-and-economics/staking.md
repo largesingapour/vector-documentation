@@ -1,6 +1,6 @@
 # 🏆 Staking Guide
 
-Complete guide to staking VECTOR tokens and unlocking premium Vector GPT features.
+Complete guide to staking VECTOR tokens and unlocking premium features in VECTOR AI's Vector GPT chatbot.
 
 ## 🎯 **Staking Tiers & Benefits**
 
@@ -48,7 +48,7 @@ Complete guide to staking VECTOR tokens and unlocking premium Vector GPT feature
 - Ensure you have enough for your desired tier
 
 ### Step 2: Connect Wallet
-- Visit the Vector GPT platform
+- Visit the VECTOR AI platform
 - Connect your Ethereum wallet
 - Verify your VECTOR balance
 

@@ -1,217 +1,89 @@
-# 💰 Pricing/Staking
+# 💰 Pricing & Staking Tiers
 
-### Overview
+Vector AI uses a staking-based pricing model. Stake VECTOR tokens to unlock premium features and higher rate limits.
 
-Vector GPT offers a revolutionary blockchain AI assistant with tiered access based on VECTOR token staking. Our pricing model is designed to provide value at every level while rewarding long-term community members who stake significant amounts of VECTOR tokens.
+## 🏆 **Staking Tiers**
 
-### Free Tier
+| Tier | Stake Required | Rate Limits | Key Features |
+|------|----------------|-------------|--------------|
+| **Free** | 0 VECTOR | 1/30s, 50/day | Basic chat, limited queries |
+| **Bronze** | 100K VECTOR | 1/10s, 500/day | Enhanced features, basic APIs |
+| **Silver** | 1M VECTOR | 1/5s, 2,500/day | Premium APIs, advanced analytics |
+| **Gold** | 10M VECTOR | Unlimited | All features, enterprise support |
 
-**No staking required**
+## 🎯 **What You Get**
 
-#### Features Included:
+### **Free Tier**
+- Basic Vector GPT chat
+- 50 queries per day
+- Community support
 
-* **Basic Chat Interface**: Access to Vector GPT Beta with standard responses
-* **Limited Blockchain Queries**: 50 queries per day
-* **Basic Transaction Analysis**: Simple balance checks and transaction history
-* **Rate Limits**: 1 message every 30 seconds, 50 API calls per day
-* **Standard LLM Access**: OpenAI GPT-3.5 Turbo only
-* **Community Support**: Discord community access
+### **Bronze Tier** (100K VECTOR)
+- Custom settings and alerts
+- Advanced AI models (Claude, Deepseek)
+- Basic transaction execution
+- Email support (24h response)
 
-#### Limitations:
+### **Silver Tier** (1M VECTOR)
+- Premium APIs (Dune, Perplexity, Bitquery)
+- DeFi swaps and liquidity management
+- Real-time data and whale tracking
+- Cross-chain analysis
 
-* No real-time data access
-* No advanced analytics
-* No custom transaction execution
-* No premium API integrations
+### **Gold Tier** (10M VECTOR)
+- Unlimited access to all APIs
+- Enterprise features and support
+- Custom model training
+- Revenue sharing from platform fees
 
-***
+## 💎 **Premium APIs Included**
 
-### Premium Tiers (VECTOR Token Staking)
+### **Silver & Gold Tiers**
+- **Dune Analytics**: Blockchain data queries
+- **Perplexity**: Real-time web search
+- **Bitquery**: Advanced blockchain indexing
 
-#### 🥉 Bronze Tier
+### **Gold Tier Only**
+- **Chainalysis**: Compliance and risk analysis
+- **Messari Pro**: Professional market data
+- **Custom integrations**: Bespoke API access
 
-**Stake: 100,000 VECTOR tokens**
+## 🔒 **Staking Details**
 
-**Enhanced Features:**
+### **Lock Periods**
+- **Bronze**: 30 days minimum
+- **Silver**: 90 days minimum  
+- **Gold**: 180 days minimum
 
-* **Custom Settings**: Personalized AI assistant preferences
-* **Extended Rate Limits**: 1 message every 10 seconds, 500 API calls per day
-* **Advanced LLM Access**: Claude 3.7 Sonnet, Deepseek models
-* **Transaction Execution**: Basic token transfers and approvals
-* **NFT Analysis**: Detailed NFT collection insights
-* **Wallet Analytics**: Advanced portfolio tracking
-* **Priority Support**: Email support with 24-hour response time
+### **Rewards**
+- **APY**: 5-15% based on tier and duration
+- **Governance**: Vote on platform features
+- **Early Access**: Beta features and new chains
 
-**Premium APIs Included:**
+### **Early Withdrawal**
+- **Penalty**: 5% (Bronze), 10% (Silver), 15% (Gold)
 
-* **Bitquery**: Basic blockchain data queries (1,000 calls/day)
-* **Enhanced Chat**: Multi-model AI responses
-* **Smart Contract Interaction**: Read-only contract analysis
+## 🚀 **Getting Started**
 
-***
+1. **Buy VECTOR**: Purchase on supported exchanges
+2. **Connect Wallet**: Link to vector-ai.pro
+3. **Stake Tokens**: Choose your tier
+4. **Start Using**: Access unlocked features immediately
 
-#### 🥈 Silver Tier
+## 🏢 **Enterprise**
 
-**Stake: 1,000,000 VECTOR tokens**
+Need custom solutions? Contact us for:
+- Dedicated infrastructure
+- Custom API development
+- White-label solutions
+- SLA guarantees
 
-**All Bronze Features Plus:**
+**Contact**: team@vector-ai.pro
 
-* **Basic API Access**: Full access to standard endpoints (excluding premium/high-cost APIs)
-* **Rate Limits**: 1 message every 5 seconds, 2,500 API calls per day
-* **Advanced Transaction Execution**:
-  * DeFi swaps and liquidity provision
-  * Staking and governance participation
-  * Multi-signature wallet support
-* **Real-time Data Access**: Live blockchain monitoring
-* **Advanced Analytics**: Custom dashboards and reporting
-* **Whale Tracking**: Large transaction monitoring and alerts
+---
 
-**Premium APIs Included:**
+## 🌐 **Official Links**
 
-* **Dune Analytics**: Access to community dashboards (5,000 queries/day)
-* **Fetch AI**: Autonomous agent integration (1,000 calls/day)
-* **Perplexity**: Real-time web search integration (2,000 searches/day)
-* **Enhanced Bitquery**: Advanced data queries (5,000 calls/day)
-
-**Additional Features:**
-
-* **Cross-chain Analysis**: Multi-blockchain portfolio tracking
-* **Automated Trading Signals**: AI-powered market insights
-* **Custom Alert System**: Personalized blockchain event notifications
-* **API Webhook Integration**: Real-time data streaming to external systems
-
-***
-
-#### 🥇 Gold Tier
-
-**Stake: 10,000,000 VECTOR tokens**
-
-**All Silver Features Plus:**
-
-* **Full API Access**: Unlimited access to ALL premium and high-cost API endpoints
-* **Enterprise Rate Limits**: No message cooldown, unlimited API calls per day
-* **White-glove Support**: Dedicated account manager and phone support
-* **Custom Model Training**: Personalized AI model fine-tuning
-* **Enterprise Integration**: Custom API endpoints and webhooks
-
-**Premium APIs - Unlimited Access:**
-
-* **Dune Analytics Pro**: Unlimited custom queries and dashboard creation
-* **Fetch AI Enterprise**: Full autonomous agent framework access
-* **Perplexity Pro**: Unlimited real-time search with academic sources
-* **Bitquery Enterprise**: Full blockchain indexing and custom data feeds
-* **Chainalysis Integration**: Advanced compliance and risk analysis
-* **Messari Pro**: Professional-grade market data and research
-
-**Exclusive Features:**
-
-* **MEV Analysis**: Maximal Extractable Value detection and optimization
-* **Institutional-grade Security**: Hardware wallet integration and multi-party computation
-* **Custom Smart Contract Deployment**: AI-assisted contract creation and auditing
-* **Arbitrage Detection**: Cross-exchange and cross-chain opportunity identification
-* **Governance Analytics**: DAO participation optimization and voting recommendations
-* **Portfolio Optimization**: AI-driven asset allocation and rebalancing strategies
-
-***
-
-### Additional Premium Features
-
-#### 🚀 Advanced Transaction Capabilities
-
-_Available from Bronze tier and above_
-
-* **Natural Language Processing**: Execute complex DeFi strategies using plain English
-* **Multi-step Transaction Bundling**: Atomic transaction sequences
-* **Gas Optimization**: Intelligent gas price prediction and optimization
-* **Slippage Protection**: Advanced MEV protection and sandwich attack prevention
-* **Cross-chain Bridge Integration**: Seamless asset movement across blockchains
-
-#### 📊 Analytics & Insights
-
-_Enhanced capabilities by tier_
-
-* **Portfolio Performance Tracking**: Historical and predictive analytics
-* **Risk Assessment**: Smart contract and protocol risk analysis
-* **Yield Farming Optimization**: Maximum yield strategy recommendations
-* **Liquidity Analysis**: Pool health and impermanent loss calculations
-* **Market Sentiment Analysis**: Social media and news sentiment tracking
-
-#### 🔐 Security Features
-
-_All premium tiers_
-
-* **Transaction Simulation**: Preview transaction outcomes before execution
-* **Phishing Protection**: Malicious contract and address detection
-* **Audit Integration**: Automated smart contract security scanning
-* **Privacy Tools**: Transaction anonymization and privacy coin integration
-
-***
-
-### Staking Rewards & Benefits
-
-#### Staking Incentives:
-
-* **Staking Rewards**: Earn additional VECTOR tokens (5-15% APY based on tier)
-* **Governance Rights**: Vote on platform features and API integrations
-* **Early Access**: Beta features and new blockchain network support
-* **Fee Discounts**: Reduced transaction fees on platform-executed trades
-* **Revenue Sharing**: Portion of premium API revenue distributed to Gold tier stakers
-
-#### Lock-up Periods:
-
-* **Bronze Tier**: 30-day minimum lock-up
-* **Silver Tier**: 90-day minimum lock-up
-* **Gold Tier**: 180-day minimum lock-up
-
-_Early withdrawal penalties apply: 5% for Bronze, 10% for Silver, 15% for Gold_
-
-***
-
-### Enterprise Solutions
-
-#### Custom Enterprise Packages
-
-_Contact sales for pricing_
-
-* **Dedicated Infrastructure**: Private cloud deployment
-* **Custom API Development**: Bespoke blockchain data integrations
-* **White-label Solutions**: Branded Vector GPT instances
-* **SLA Guarantees**: 99.9% uptime with financial penalties
-* **Compliance Support**: Regulatory reporting and audit trails
-* **Multi-tenant Management**: Team access controls and usage analytics
-
-#### Institutional Features:
-
-* **Bulk Transaction Processing**: High-volume transaction automation
-* **Custom Risk Models**: Institution-specific risk parameters
-* **Regulatory Compliance**: AML/KYC integration and reporting
-* **Multi-signature Workflows**: Enterprise-grade transaction approval processes
-
-***
-
-### Getting Started
-
-1. **Acquire VECTOR Tokens**: Purchase on supported exchanges
-2. **Connect Wallet**: Link your wallet to the Vector GPT platform
-3. **Stake Tokens**: Choose your tier and stake the required amount
-4. **Unlock Features**: Access premium capabilities immediately after staking
-5. **Start Building**: Leverage advanced blockchain AI capabilities
-
-#### Supported Wallets:
-
-* MetaMask
-* WalletConnect
-* Coinbase Wallet
-* Hardware Wallets (Ledger, Trezor)
-
-***
-
-### Support & Resources
-
-* **Documentation**: Comprehensive API documentation and tutorials
-* **Community**: Discord server with 24/7 community support
-* **Developer Resources**: SDKs, code examples, and integration guides
-* **Training Programs**: Certification courses for advanced features
-* **Partner Network**: Integrations with leading DeFi protocols and exchanges
-
-***
+- **🌐 Website**: https://vector-ai.pro
+- **🐦 Twitter/X**: https://x.com/vectorai_x
+- **💬 Telegram**: https://t.me/vectorai_tg

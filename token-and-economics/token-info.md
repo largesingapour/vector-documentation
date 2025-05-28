@@ -1,6 +1,17 @@
-# 💲 Token Info
+# 🪙 VECTOR Token Information
 
 **Vector AI** ($VECTOR) is the native utility token powering the Vector AI ecosystem - the first language-based blockchain explorer with built-in transaction capabilities. $VECTOR serves as the foundation for accessing premium AI features, staking rewards, governance participation, and seamless API integrations.
+
+## 🎉 Token Deployment
+
+**VECTOR Token is now LIVE on Ethereum Mainnet!**
+
+- **Contract Address**: `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`
+- **Network**: Ethereum Mainnet
+- **Symbol**: VECTOR
+- **Decimals**: 18
+- **Total Supply**: 1,000,000,000 VECTOR
+- **Etherscan**: [View Contract](https://etherscan.io/token/0x569Dd3298E114Da858415ee5672C8F2AB57938Bf)
 
 #### Token Specifications
 

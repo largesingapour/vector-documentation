@@ -67,3 +67,5 @@ Here's the process flow:
 - **[🤖 Telegram Bot](vector-bot-telegram/telegram-bot.md)** - Community features and bot commands  
 - **[🌟 Premium APIs](premium-apis/premium-apis.md)** - Advanced features and pricing
 - **[❓ FAQ](faq.md)** - Frequently asked questions and support
+
+<!-- GitBook sync trigger - Updated: January 2025 -->

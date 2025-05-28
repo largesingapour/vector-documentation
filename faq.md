@@ -1,11 +1,14 @@
 # ❓ Frequently Asked Questions
 
-Quick answers to common questions about Vector GPT. For detailed information, see our [documentation sections](#-documentation-links).
+Quick answers to common questions about VECTOR AI and our Vector GPT chatbot. For detailed information, see our [documentation sections](#-documentation-links).
 
 ## 🚀 **Platform Basics**
 
+### What is VECTOR AI?
+VECTOR AI is a blockchain intelligence company that developed Vector GPT, an AI-powered chatbot for blockchain analysis and transaction capabilities. Our Vector GPT chatbot combines GPT AI with real-time blockchain data for intelligent analysis and automation.
+
 ### What is Vector GPT?
-Vector GPT is an AI-powered blockchain explorer with transaction capabilities. It combines GPT AI with real-time blockchain data for intelligent analysis and automation.
+Vector GPT is VECTOR AI's flagship chatbot product - an AI-powered blockchain explorer with transaction capabilities.
 
 ### Which blockchains are supported?
 Ethereum, Polygon, BSC, Arbitrum, Optimism, Base. More chains coming soon.

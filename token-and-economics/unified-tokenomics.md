@@ -1,6 +1,6 @@
-# 🧠 Vector GPT Tokenomics Overview
+# 🧠 VECTOR AI Tokenomics Overview
 
-**Vector GPT** is designed for long-term utility, transparency, and deep market trust. Our tokenomics combine high initial liquidity with sustainable funding through tax-based revenue.
+**VECTOR AI** is designed for long-term utility, transparency, and deep market trust. Our tokenomics combine high initial liquidity with sustainable funding through tax-based revenue to support our Vector GPT chatbot and blockchain intelligence platform.
 
 ## 📊 **Token Allocation**
 

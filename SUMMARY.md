@@ -34,4 +34,6 @@
 
 ## 📚 Help & Support
 
+* [🗺️ Roadmap](roadmap.md)
+* [🚀 Launch Plan](vector-gpt-launch-plan.md)
 * [❓ Frequently Asked Questions](faq.md)

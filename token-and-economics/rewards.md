@@ -1,119 +1,105 @@
-# 🎁 Rewards System
+# Rewards System
 
-How VECTOR AI rewards token holders and active community members through our Vector GPT platform.
+Complete guide to earning rewards through VECTOR token staking and platform participation.
 
-## 💰 **Reward Sources**
+## **Reward Sources**
 
-### Tax Revenue (Primary Source)
-- **2% of Buy Transactions** → Staking Pool
-- **Automatic Distribution**: No manual intervention required
-- **Sustainable**: Grows with platform trading volume
+### Primary Revenue Streams
+- **Transaction Tax**: 2% of all buy transactions go to staking rewards
+- **Platform Revenue**: Portion of API subscriptions and premium features
+- **Bot Usage**: Rewards for active Telegram bot interactions
+- **Governance Participation**: Bonus rewards for voting and proposals
 
-### Platform Revenue
-- **API Usage Fees**: Portion goes to stakers
-- **Premium Features**: Subscription revenue sharing
-- **Enterprise Contracts**: Revenue sharing for Gold tier
+### Revenue Distribution
+- **60%** → Staking rewards pool
+- **25%** → Platform development and maintenance
+- **15%** → Marketing and community growth
 
-### Community Activities
-- **Telegram Bot Usage**: Active users earn bonus rewards
-- **Governance Participation**: Voting earns additional tokens
-- **Content Creation**: Bounties for educational content
+## **Distribution Model**
 
-## 📊 **Distribution Model**
+### Frequency & Method
+- **Weekly Distribution**: Every Sunday at 12:00 UTC
+- **Automatic Process**: No claiming required, rewards auto-compound
+- **Proportional Allocation**: Based on staking amount and tier multipliers
 
-### Weekly Distribution
-- **Every 7 Days**: Automatic reward calculation
-- **Proportional**: Based on your staking amount
-- **Tier Multipliers**: Higher tiers get bonus multipliers
+### Tier Multipliers
+- **Bronze**: 1.0x base rewards
+- **Silver**: 1.5x multiplier bonus
+- **Gold**: 2.0x multiplier + revenue sharing
 
 ### Calculation Formula
 ```
-Your Rewards = (Your Stake / Total Staked) × Weekly Pool × Tier Multiplier
+Weekly Reward = (Your Stake / Total Staked) × Weekly Pool × Tier Multiplier
 ```
 
-### Tier Multipliers
-- **Bronze**: 1.0x base rate
-- **Silver**: 1.2x multiplier
-- **Gold**: 1.5x multiplier + revenue sharing
+## **Estimated Returns**
 
-## 🎯 **Estimated Returns**
+### Annual Percentage Yield (APY)
+- **Bronze Tier**: 5-8% APY
+- **Silver Tier**: 8-12% APY
+- **Gold Tier**: 12-15% APY + platform revenue share
 
-| Tier | Base APY | With Multiplier | Additional Benefits |
-|------|----------|-----------------|-------------------|
-| **Bronze** | 5-8% | 5-8% | Standard rewards |
-| **Silver** | 5-8% | 6-10% | Bonus multiplier |
-| **Gold** | 5-8% | 8-12% | + Revenue sharing |
+*Note: APY varies based on platform usage, token price, and total staking participation*
 
-*APY estimates based on current tax revenue and platform usage*
+## **Bonus Rewards**
 
-## 🏆 **Bonus Rewards**
-
-### Governance Participation
-- **Voting Bonus**: +10% rewards for active voters
-- **Proposal Creation**: Bonus tokens for accepted proposals
-- **Community Leadership**: Additional rewards for moderators
-
-### Platform Usage
-- **API Usage**: Earn back portion of fees paid
-- **Telegram Activity**: Active bot users get bonus rewards
-- **Referrals**: Earn rewards for bringing new users
+### Activity Bonuses
+- **Daily Login**: 0.1% bonus for consecutive platform usage
+- **Referral Program**: 5% of referred user's first-year rewards
+- **Community Participation**: Extra rewards for helpful Telegram contributions
 
 ### Special Events
-- **Launch Bonuses**: Extra rewards during platform milestones
-- **Community Challenges**: Periodic reward competitions
-- **Holiday Events**: Special seasonal reward multipliers
+- **Launch Bonus**: 2x rewards for first 30 days of staking
+- **Milestone Rewards**: Bonus distributions when platform hits user targets
+- **Governance Rewards**: Additional tokens for active voting participation
 
-## 📈 **Reward Growth**
+### Long-term Incentives
+- **Loyalty Bonus**: Increasing multipliers for longer staking periods
+  - 3 months: +10% bonus
+  - 6 months: +25% bonus
+  - 12 months: +50% bonus
 
-### Factors Increasing Rewards
-- **Higher Trading Volume**: More tax revenue
-- **Platform Growth**: More API usage and fees
-- **New Features**: Additional revenue streams
-- **Community Growth**: More active participants
+### Platform Growth Sharing
+- **Revenue Sharing**: Gold tier receives portion of platform profits
+- **Fee Rebates**: Higher tiers get reduced API and transaction fees
+- **Early Access**: Premium features available first to stakers
 
-### Sustainability
-- **Multiple Sources**: Not dependent on single revenue stream
-- **Organic Growth**: Rewards grow with platform success
-- **Long-term Focus**: Designed for sustainable distribution
-
-## 🔄 **Claiming Rewards**
+## **Claiming Rewards**
 
 ### Automatic Distribution
-- **No Action Required**: Rewards automatically added to your balance
-- **Weekly Schedule**: Every 7 days at the same time
-- **Transparent**: All distributions visible on blockchain
+- Rewards automatically added to your staking balance
+- No manual claiming required
+- Compound interest effect increases returns over time
 
-### Compound Growth
-- **Auto-Compound**: Rewards automatically increase your staking power
-- **Compound Interest**: Earn rewards on your rewards
-- **Long-term Growth**: Maximizes returns over time
+### Manual Options
+- **Withdraw**: Remove rewards while keeping stake active
+- **Compound**: Reinvest rewards to increase staking amount
+- **Partial Unstake**: Withdraw portion of stake + accumulated rewards
 
-## 📊 **Tracking Your Rewards**
+## **Tracking Your Rewards**
 
 ### Dashboard Features
-- **Real-time Balance**: See your current reward balance
-- **Historical Data**: Track your reward history
-- **Projections**: Estimate future rewards based on current rates
-- **Breakdown**: See rewards by source (tax, platform, bonuses)
+- Real-time reward balance display
+- Historical earnings charts
+- APY calculator and projections
+- Tier comparison tools
 
-### Transparency
-- **Public Data**: All reward distributions are on-chain
-- **Regular Reports**: Monthly reward summaries
-- **Community Updates**: Regular communication about reward changes
+### Notifications
+- Weekly reward distribution alerts
+- Milestone achievement notifications
+- Bonus opportunity announcements
 
----
+## **Get Started**
 
-## 🌐 **Get Started**
+1. **Stake VECTOR**: Choose your tier and stake tokens
+2. **Earn Automatically**: Rewards begin accumulating immediately
+3. **Track Progress**: Monitor earnings in your dashboard
+4. **Optimize Strategy**: Adjust staking amount and tier as needed
 
-Ready to start earning rewards?
-1. **[Stake VECTOR](staking.md)** - Choose your tier and start staking
-2. **[Join Telegram](https://t.me/vectorai_tg)** - Participate in community activities
-3. **[Use the Platform](../getting-started/overview/quick-start.md)** - Earn usage bonuses
+**[Start Staking →](staking.md)**
 
----
-
-## 📞 **Questions?**
+## **Questions?**
 
 - **Telegram**: https://t.me/vectorai_tg
 - **Email**: team@vector-ai.pro
-- **FAQ**: [Common Questions](../faq.md)
+- **Documentation**: [Staking Guide](staking.md)

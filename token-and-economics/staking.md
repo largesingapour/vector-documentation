@@ -1,8 +1,8 @@
-# 🏆 Staking Guide
+# Staking Guide
 
 Complete guide to staking VECTOR tokens and unlocking premium features in VECTOR AI's Vector GPT chatbot.
 
-## 🎯 **Staking Tiers & Benefits**
+## **Staking Tiers & Benefits**
 
 | Tier | Staking Required | Rate Limits | API Access | Special Features |
 |------|------------------|-------------|-------------|------------------|
@@ -11,7 +11,7 @@ Complete guide to staking VECTOR tokens and unlocking premium features in VECTOR
 | **Silver** | 1,000,000 VECTOR | 1/5s, 2,500 calls/day | Premium APIs | Advanced analytics |
 | **Gold** | 10,000,000 VECTOR | Unlimited | All APIs | Custom features |
 
-## 💰 **Staking Rewards**
+## **Staking Rewards**
 
 ### Reward Sources
 - **Tax Revenue**: 2% of all buy transactions
@@ -28,7 +28,7 @@ Complete guide to staking VECTOR tokens and unlocking premium features in VECTOR
 - **Silver**: 8-12% APY  
 - **Gold**: 12-15% APY + revenue sharing
 
-## 🔒 **Vesting & Lock Terms**
+## **Vesting & Lock Terms**
 
 ### Team Allocation (7% of supply)
 - **Cliff Period**: 3 months before any tokens unlock
@@ -41,7 +41,7 @@ Complete guide to staking VECTOR tokens and unlocking premium features in VECTOR
 - **Provider**: Unicrypt or Team.Finance
 - **Purpose**: Prevents rug pulls, ensures stability
 
-## 🚀 **How to Stake**
+## **How to Stake**
 
 ### Step 1: Acquire VECTOR
 - Buy on Uniswap, SushiSwap, or other DEXs
@@ -67,7 +67,7 @@ Complete guide to staking VECTOR tokens and unlocking premium features in VECTOR
 - Start earning rewards within 24 hours
 - Monitor your rewards in the dashboard
 
-## ⚠️ **Important Considerations**
+## **Important Considerations**
 
 ### Risks
 - **Smart Contract Risk**: Audited but DeFi risks remain
@@ -82,7 +82,7 @@ Complete guide to staking VECTOR tokens and unlocking premium features in VECTOR
 
 ---
 
-## 📞 **Need Help?**
+## **Need Help?**
 
 - **Telegram**: https://t.me/vectorai_tg
 - **Email**: team@vector-ai.pro

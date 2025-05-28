@@ -1,8 +1,8 @@
-# 💰 Pricing & Staking Tiers
+# Pricing & Staking Tiers
 
 Vector AI uses a staking-based pricing model. Stake VECTOR tokens to unlock premium features and higher rate limits.
 
-## 🏆 **Staking Tiers**
+## **Staking Tiers**
 
 | Tier | Stake Required | Rate Limits | Key Features |
 |------|----------------|-------------|--------------|
@@ -11,7 +11,7 @@ Vector AI uses a staking-based pricing model. Stake VECTOR tokens to unlock prem
 | **Silver** | 1M VECTOR | 1/5s, 2,500/day | Premium APIs, advanced analytics |
 | **Gold** | 10M VECTOR | Unlimited | All features, enterprise support |
 
-## 🎯 **What You Get**
+## **What You Get**
 
 ### **Free Tier**
 - Basic Vector GPT chat
@@ -36,7 +36,7 @@ Vector AI uses a staking-based pricing model. Stake VECTOR tokens to unlock prem
 - Custom model training
 - Revenue sharing from platform fees
 
-## 💎 **Premium APIs Included**
+## **Premium APIs Included**
 
 ### **Silver & Gold Tiers**
 - **Dune Analytics**: Blockchain data queries
@@ -48,7 +48,7 @@ Vector AI uses a staking-based pricing model. Stake VECTOR tokens to unlock prem
 - **Messari Pro**: Professional market data
 - **Custom integrations**: Bespoke API access
 
-## 🔒 **Staking Details**
+## **Staking Details**
 
 ### **Lock Periods**
 - **Bronze**: 30 days minimum
@@ -63,14 +63,14 @@ Vector AI uses a staking-based pricing model. Stake VECTOR tokens to unlock prem
 ### **Early Withdrawal**
 - **Penalty**: 5% (Bronze), 10% (Silver), 15% (Gold)
 
-## 🚀 **Getting Started**
+## **Getting Started**
 
 1. **Buy VECTOR**: Purchase on supported exchanges
 2. **Connect Wallet**: Link to vector-ai.pro
 3. **Stake Tokens**: Choose your tier
 4. **Start Using**: Access unlocked features immediately
 
-## 🏢 **Enterprise**
+## **Enterprise**
 
 Need custom solutions? Contact us for:
 - Dedicated infrastructure
@@ -82,8 +82,8 @@ Need custom solutions? Contact us for:
 
 ---
 
-## 🌐 **Official Links**
+## **Official Links**
 
-- **🌐 Website**: https://vector-ai.pro
-- **🐦 Twitter/X**: https://x.com/vectorai_x
-- **💬 Telegram**: https://t.me/vectorai_tg
+- **Website**: https://vector-ai.pro
+- **Twitter/X**: https://x.com/vectorai_x
+- **Telegram**: https://t.me/vectorai_tg

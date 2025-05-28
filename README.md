@@ -1,212 +1,69 @@
-# VectorAI Docs - GitBook Workflow Setup
+# 🧠 VECTOR AI - AI-Powered Blockchain Intelligence
 
-This repository contains tools and guides for setting up a seamless GitBook ↔ GitHub ↔ Local editing workflow.
+**Company**: VECTOR AI | **Product**: Vector GPT Chatbot | **Token**: VECTOR
 
-## 🚀 Quick Start
+VECTOR AI is a blockchain intelligence company that developed Vector GPT, an advanced AI chatbot designed for DeFi automation and blockchain analysis. Our flagship product bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics and transaction capabilities.
 
-### Option 1: If you already have a GitBook with GitHub sync
+## 🎉 VECTOR Token - Now Live!
 
-```powershell
-# Clone your existing repository
-.\setup_gitbook_workflow.ps1 -RepoUrl "https://github.com/yourusername/your-gitbook-repo.git" -UserName "Your Name" -UserEmail "your.email@example.com"
-```
+**Contract Address**: `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`  
+**Network**: Ethereum Mainnet  
+**Etherscan**: [View Contract](https://etherscan.io/token/0x569Dd3298E114Da858415ee5672C8F2AB57938Bf)
 
-### Option 2: Starting from scratch
+## 🚀 **What is VECTOR AI?**
 
-1. **Create a new repository on GitHub**
-2. **Set up GitBook-GitHub sync** (see guide below)
-3. **Clone and initialize:**
+VECTOR AI is the company behind Vector GPT, a conversational AI chatbot that understands blockchain operations and can help you:
 
-```powershell
-.\setup_gitbook_workflow.ps1 -RepoUrl "https://github.com/yourusername/your-new-repo.git" -UserName "Your Name" -UserEmail "your.email@example.com"
-```
+<figure><img src=".gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
 
-## 📚 What's Included
+Vector GPT is a blockchain-connected GPT-style bot designed for advanced DeFi automation and intelligence. It bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics, transaction capabilities, and automation directly through Telegram or web chat.
 
-| File | Description |
-|------|-------------|
-| `GitBook-GitHub-Workflow-Guide.md` | Comprehensive setup guide |
-| `setup_gitbook_workflow.ps1` | Automated setup script |
-| `gitbook_helpers.ps1` | Helper functions for daily operations |
-| `README.md` | This file |
+## 🎯 Core Features:
 
-## 🔄 The Complete Workflow
+**AI Assistant with Blockchain Connectivity**
 
-```mermaid
-graph LR
-    A[GitBook] --> B[GitHub]
-    B --> C[Local Workspace]
-    C --> D[AI Assistant Edits]
-    D --> E[Git Commit & Push]
-    E --> B
-    B --> A
-```
+* Whale tracking, sniper detection, contract analysis
+* Telegram-based tipping, bounties, and chat summaries
+* Staking and token-gated access to premium tools
+* Developer-friendly API integrations for custom logic flows
 
-### Step-by-Step Process:
+**🔐 Secure & Transparent**
+* 70% liquidity locked for 12+ months
+* Team tokens vested with 3-month cliff + 18-month linear release
+* 5% balanced buy/sell tax structure
+* Multisig-controlled fund management
 
-1. **📖 Write in GitBook** → Auto-syncs to GitHub
-2. **⬇️ Clone to local** → Use our setup script  
-3. **🤖 Edit with AI** → Make content modifications
-4. **💾 Commit & Push** → Use our helper functions
-5. **🔄 Auto-sync** → Changes appear in GitBook
+## 🚀 How It Works
 
-## 🛠️ Daily Usage
+Here's the process flow:
 
-After initial setup, load the helper functions:
+1.  **User Input (Blockchain Execution)** - Commands via web or Telegram, Vector determines type of request (transaction or request) and process the type of request.
 
-```powershell
-# Load helper functions
-. .\gitbook_helpers.ps1
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-# See available commands
-Show-GitBookCommands
-```
+2. **User Input (Non-Blockchain Interaction)** - Commands via web or Telegram are received. Vector identifies the request type, whether it's a transaction or information request, and processes it accordingly.
 
-### Common Operations:
+<figure><img src=".gitbook/assets/Screenshot 2025-05-25 154803.png" alt=""><figcaption></figcaption></figure>
 
-```powershell
-# Create a new page
-New-GitBookPage -Path "user-guide/new-feature.md" -Title "New Feature Guide"
+3. **Multiple-Source Queries** - Commands via web or Telegram are received. Vector identifies the request type, whether it's a transaction or information request, and processes it accordingly.
 
-# Add to navigation
-Add-ToSummary -Title "New Feature Guide" -Path "user-guide/new-feature.md" -IndentLevel 1
-
-# Check status
-Get-SyncStatus
-
-# Sync changes back to GitBook
-Sync-ToGitBook -CommitMessage "Added new feature documentation"
-```
-
-## 📋 Prerequisites
-
-- ✅ GitBook account
-- ✅ GitHub account  
-- ✅ Git installed on Windows
-- ✅ PowerShell (built into Windows)
-
-## 🎯 GitBook Setup Steps
-
-1. **In GitBook:**
-   - Go to your space → **Configure** → **GitHub Sync**
-   - Authenticate with GitHub
-   - Install GitBook app to your GitHub account
-   - Select repository and branch
-   - Choose sync direction (GitBook → GitHub recommended)
-
-2. **Repository Structure:**
-   ```
-   your-repo/
-   ├── README.md              # Main landing page
-   ├── SUMMARY.md            # Navigation structure  
-   ├── .gitbook.yaml         # GitBook configuration
-   ├── getting-started/
-   │   ├── README.md
-   │   └── installation.md
-   └── user-guide/
-       ├── README.md
-       └── advanced-features.md
-   ```
-
-## 🔍 Validation & Testing
-
-```powershell
-# Validate your GitBook structure
-Test-GitBookStructure
-
-# Check sync status
-Get-SyncStatus
-```
-
-## 🌿 Branch Workflow (Recommended)
-
-```powershell
-# Create feature branch
-New-GitBookBranch -BranchName "add-api-docs"
-
-# Make changes...
-# New-GitBookPage, edit files, etc.
-
-# Sync changes
-Sync-ToGitBook -CommitMessage "Added API documentation" -Branch "add-api-docs"
-
-# Create PR on GitHub, merge to main
-# GitBook will sync automatically from main branch
-```
-
-## 💡 Tips & Best Practices
-
-### ✅ Do:
-- Use descriptive commit messages
-- Keep SUMMARY.md updated for navigation
-- Test GitBook rendering after major changes
-- Use branches for significant updates
-- Follow GitBook's Markdown conventions
-
-### ❌ Don't:
-- Edit simultaneously in GitBook and locally
-- Forget to sync changes
-- Break SUMMARY.md structure
-- Use conflicting file names
-
-## 🎨 GitBook-Specific Markdown
-
-GitBook supports special blocks:
-
-```markdown
-{% hint style="info" %}
-This is an info box that will render beautifully in GitBook
-{% endhint %}
-
-{% tabs %}
-{% tab title="JavaScript" %}
-```javascript
-console.log("Code with tabs!");
-```
-{% endtab %}
-{% tab title="Python" %}
-```python
-print("Multiple language examples")
-```
-{% endtab %}
-{% endtabs %}
-```
-
-## 🚨 Troubleshooting
-
-### Sync Issues
-- Verify GitHub app permissions
-- Check repository access in GitBook settings
-- Ensure branch names match configuration
-
-### Formatting Issues  
-- Test complex Markdown in GitBook editor first
-- Use GitBook's native blocks for best results
-- Validate with `Test-GitBookStructure`
-
-### Git Issues
-- Check authentication: `git remote -v`
-- Verify user config: `git config --list`
-- Ensure you're in the correct directory
-
-## 📞 Getting Help
-
-1. **Read the full guide:** `GitBook-GitHub-Workflow-Guide.md`
-2. **Check command help:** `Show-GitBookCommands`
-3. **Validate setup:** `Test-GitBookStructure`
-4. **Check status:** `Get-SyncStatus`
-
-## 🎉 Success Indicators
-
-You know everything is working when:
-
-- ✅ Changes made locally appear in GitBook within minutes
-- ✅ `Get-SyncStatus` shows all commits pushed
-- ✅ `Test-GitBookStructure` passes validation
-- ✅ Navigation works correctly in GitBook
+<figure><img src=".gitbook/assets/modelselector.png" alt=""><figcaption></figcaption></figure>
 
 ---
 
-**🤖 Ready to start editing with AI assistance!** 
+## 🌐 Official Links
 
-Once setup is complete, you can make content modifications using this AI assistant, then sync them back to GitBook with a single command. 
+- **🌐 Website**: https://vector-ai.pro
+- **🐦 Twitter/X**: https://x.com/vectorai_x
+- **💬 Telegram**: https://t.me/vectorai_tg
+- **📧 Email**: team@vector-ai.pro
+
+---
+
+## 📚 Documentation Sections
+
+- **[🚀 Getting Started](getting-started/overview/README.md)** - Quick start guide and platform overview
+- **[💰 Token & Economics](token-and-economics/unified-tokenomics.md)** - Complete tokenomics and allocation details
+- **[🤖 Telegram Bot](vector-bot-telegram/telegram-bot.md)** - Community features and bot commands  
+- **[🌟 Premium APIs](premium-apis/premium-apis.md)** - Advanced features and pricing
+- **[❓ FAQ](faq.md)** - Frequently asked questions and support

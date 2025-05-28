@@ -4,18 +4,11 @@
 
 **Company**: VECTOR AI | **Product**: Vector GPT Chatbot | **Token**: VECTOR
 
-VECTOR AI is a blockchain intelligence company that developed Vector GPT, an advanced AI chatbot designed for DeFi automation and blockchain analysis. Our flagship product bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics and transaction capabilities.\
-
+VECTOR AI is a blockchain intelligence company that developed Vector GPT, an advanced AI chatbot designed for DeFi automation and blockchain analysis. Our flagship product bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics and transaction capabilities.
 
 ## &#x20;[Website](https://vector-ai.pro) - [Twitter](https://x.com/vectorai_x) - [Telegram](https://t.me/vectorai_tg) - [Email](mailto:team@vector-ai.pro) - [GitHub](https://github.com/vectoraidev)
 
-##
-
-## VECTOR Token - Now Live!
-
-**Contract Address**: `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`\
-**Network**: Ethereum Mainnet\
-**Etherscan**: [View Contract](https://etherscan.io/token/0x569Dd3298E114Da858415ee5672C8F2AB57938Bf)
+***
 
 ## **What is VECTOR AI?**
 

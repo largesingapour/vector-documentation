@@ -1,155 +1,73 @@
 # ⚡ Quick Start
 
-Welcome to Vector GPT! Get up and running in minutes with our comprehensive AI platform for blockchain intelligence and DeFi automation.
+Get up and running with Vector GPT in minutes.
 
-## Choose Your Starting Point
+## 🌐 **Web Interface**
 
-### Vector GPT (Web Interface)
+**Best for:** Interactive analysis and complex queries
 
-**Best for:** Interactive analysis, research, and complex queries
+1. **Access**: Visit [vector-ai.pro](https://vector-ai.pro)
+2. **Try these examples**:
 
-1. **Access the Platform**
-   * Visit [vector-ai.pro](https://vector-ai.pro)
-   * No registration required for basic access
+### Basic Queries
+```
+What's the current price of ETH?
+Analyze this contract: 0xA0b86a33E6776...
+Check my wallet balance
+Send 0.01 ETH to vitalik.eth
+```
 
-2. **Try Your First Queries**
+### DeFi Operations
+```
+Swap 0.01 ETH for USDC
+Find the best yield farming opportunities for USDC
+Add liquidity to ETH/USDC pool on Uniswap
+```
 
-   Choose from these example queries to get started:
+### Smart Contracts
+```
+Deploy ERC20 token with name "Test" and symbol "TEST"
+Is this contract safe to interact with?
+```
 
-   #### 🔍 **Analysis Queries**
-   ```
-   Analyze this transaction: 0x1234567890abcdef...
-   Check the security of contract 0xA0b86a33E6776...
-   What are the risks of interacting with this token?
-   Show me the whale movements for PEPE token
-   Analyze the trading patterns for vitalik.eth
-   ```
+### Cross-Chain
+```
+Bridge 0.01 ETH to BASE
+Check my balances across all chains
+```
 
-   #### ⚡ **Blockchain Interactions**
-   ```
-   Send 0.01 ETH to vitalik.eth
-   Swap 0.01 ETH for USDC
-   Bridge 0.01 ETH to BASE
-   Approve USDC spending for Uniswap
-   Check my wallet balance
-   ```
-
-   #### 🚀 **DeFi Operations**
-   ```
-   Find the best yield farming opportunities for USDC
-   Add liquidity to ETH/USDC pool on Uniswap
-   Stake 100 VECTOR tokens
-   What's the current gas price?
-   Show me arbitrage opportunities between exchanges
-   ```
-
-   #### 🏭 **Smart Contract Deployment**
-   ```
-   Deploy ERC20 token with name "Test" and symbol "TEST"
-   Create an ERC721 NFT collection called "My Collection"
-   Deploy a simple multisig wallet
-   Generate a token contract with 1M supply
-   ```
-
-   #### 📊 **Market Intelligence**
-   ```
-   What's the current price of ETH?
-   Show me the top gainers today
-   Analyze the market sentiment for Bitcoin
-   Find tokens with high trading volume
-   Track large transactions for USDT
-   ```
-
-   #### 🔗 **Cross-Chain Operations**
-   ```
-   Bridge USDC from Ethereum to Polygon
-   Check my balances across all chains
-   Find the cheapest way to move ETH to Arbitrum
-   Compare gas fees across different networks
-   ```
-
-   #### 🎯 **Portfolio Management**
-   ```
-   Show my complete portfolio breakdown
-   Calculate my portfolio performance this month
-   Find underperforming assets in my wallet
-   Suggest portfolio rebalancing strategies
-   Track my DeFi positions across protocols
-   ```
-
-   #### 🚨 **Security & Risk Assessment**
-   ```
-   Is this contract safe to interact with?
-   Check if this token is a honeypot
-   Analyze the liquidity of this trading pair
-   Scan my wallet for risky tokens
-   Verify the authenticity of this NFT collection
-   ```
-
-3. **Explore Advanced Features**
-   * Smart contract analysis and deployment
-   * Cross-chain intelligence and bridging
-   * Real-time market insights and alerts
-   * Custom AI agents for automation
-   * Portfolio optimization and risk management
-
-### Vector Bot (Telegram)
+## 🤖 **Telegram Bot**
 
 <mark style="color:red;">Coming Soon</mark>
 
-**Best for:** Community management, real-time alerts, and mobile access
+**Best for:** Mobile access and community features
 
-1. **Add to Telegram**
-   * Search for [@VectorAIBot](https://t.me/VectorAIBot)
-   * Send `/start` to begin
-
-2. **Essential Commands**
+1. **Add Bot**: Search [@VectorAIBot](https://t.me/VectorAIBot)
+2. **Essential Commands**:
    ```
-   /help - Show all commands
-   /analyze [token] - Token analysis
+   /help - Show commands
    /price [symbol] - Price tracking
-   /alerts - Set up notifications
-   /balance [address] - Check wallet balance
-   /swap [from] [to] [amount] - Prepare token swap
+   /balance [address] - Check wallet
    /tip @user [amount] - Send VECTOR tokens
    ```
 
-3. **Community Features**
-   * Sentiment analysis and market insights
-   * Crypto tipping and bounty systems
-   * Message translation and moderation
-   * Automated alerts and notifications
+## 💡 **Pro Tips**
 
-## 🎯 **Pro Tips for Getting Started**
+- **Natural Language**: Use conversational commands
+- **Safety First**: Always review transactions before confirming
+- **Start Small**: Use small amounts when testing
 
-### **For Beginners:**
-- Start with simple analysis queries like "What's the price of ETH?"
-- Use natural language - Vector GPT understands conversational commands
-- Always review transaction details before confirming any blockchain interactions
+## 🔐 **Security**
 
-### **For Advanced Users:**
-- Combine multiple operations: "Swap ETH for USDC then bridge to Polygon"
-- Use specific addresses and amounts for precise operations
-- Leverage portfolio analysis for comprehensive insights
-
-### **For Developers:**
-- Try smart contract deployment commands
-- Use the API for programmatic access
-- Explore custom AI agent creation for automation
-
-## 🔐 **Safety First**
-
-- **Never share private keys** - Vector GPT only needs wallet addresses for analysis
-- **Always simulate transactions** before executing on mainnet
-- **Start with small amounts** when trying new operations
-- **Verify contract addresses** before interacting with smart contracts
+- Never share private keys
+- Always simulate transactions first
+- Verify contract addresses before interacting
 
 ## 🚀 **Next Steps**
 
-1. **[Explore Features](comprehensive-features.md)** - See all Vector GPT capabilities
-2. **[Learn About Staking](../../token-and-economics/staking.md)** - Unlock premium features
-3. **[Join Community](https://t.me/vectorai_tg)** - Connect with other users
-4. **[API Documentation](api-reference.md)** - For developers and integrations
+1. **[Explore Features](comprehensive-features.md)** - See all capabilities
+2. **[Staking Guide](../../token-and-economics/staking.md)** - Unlock premium features
+3. **[Join Community](https://t.me/vectorai_tg)** - Connect with users
 
 ---
 
@@ -158,4 +76,3 @@ Welcome to Vector GPT! Get up and running in minutes with our comprehensive AI p
 - **🌐 Website**: https://vector-ai.pro
 - **🐦 Twitter/X**: https://x.com/vectorai_x
 - **💬 Telegram**: https://t.me/vectorai_tg
-- **📧 Email**: team@vector-ai.pro

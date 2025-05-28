@@ -1,71 +1,84 @@
-# 🪙 VECTOR Token Information
+# Token Information
 
-**Vector AI** ($VECTOR) is the native utility token powering the Vector AI ecosystem - the first language-based blockchain explorer with built-in transaction capabilities. $VECTOR serves as the foundation for accessing premium AI features, staking rewards, governance participation, and seamless API integrations.
+**VECTOR** - The utility token powering Vector AI's blockchain intelligence platform.
 
-## 🎉 Token Deployment
+## Token Deployment
 
-**VECTOR Token is now LIVE on Ethereum Mainnet!**
+**Contract Address**: `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`  
+**Network**: Ethereum Mainnet  
+**Token Standard**: ERC-20  
+**Total Supply**: 1,000,000,000 VECTOR  
+**Decimals**: 18  
 
-- **Contract Address**: `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`
-- **Network**: Ethereum Mainnet
-- **Symbol**: VECTOR
-- **Decimals**: 18
-- **Total Supply**: 1,000,000,000 VECTOR
-- **Etherscan**: [View Contract](https://etherscan.io/token/0x569Dd3298E114Da858415ee5672C8F2AB57938Bf)
+**Etherscan**: [View Contract](https://etherscan.io/token/0x569Dd3298E114Da858415ee5672C8F2AB57938Bf)
 
-#### Token Specifications
+## **Token Allocation**
 
-| Parameter         | Value                           |
-| ----------------- | ------------------------------- |
-| **Token Name**    | Vector AI                       |
-| **Symbol**        | $VECTOR                         |
-| **Total Supply**  | 1,000,000,000 VECTOR            |
-| **Blockchain**    | Ethereum (ERC-20)               |
-| **Contract Type** | Deflationary with Tax Mechanism |
-| **Decimals**      | 18                              |
+| Category | Allocation | Tokens | Purpose |
+|----------|------------|--------|---------|
+| **Liquidity Pool** | 70% | 700,000,000 | Deep liquidity, locked 12+ months |
+| **Marketing & Growth** | 10% | 100,000,000 | User acquisition, partnerships |
+| **Staking Rewards** | 8% | 80,000,000 | Reward distribution pool |
+| **Team & Development** | 7% | 70,000,000 | Vested over 21 months |
+| **API & Infrastructure** | 5% | 50,000,000 | Platform operations |
 
+## **Tax Structure**
 
+### Buy Tax (5%)
+- **3%** → Marketing & Development
+- **2%** → Staking Pool
 
-### Token Utility & Use Cases
+### Sell Tax (5%)
+- **2%** → Treasury
+- **3%** → Liquidity/Burn
 
-#### 🔒 Staking Mechanism
+## **Security Features**
 
-**Primary Utility: Access Tier Unlocking**
+- **Liquidity Lock**: 70% locked via Unicrypt/Team.Finance for 12+ months
+- **Team Vesting**: 3-month cliff + 18-month linear release
+- **Multi-signature**: All major operations require multiple approvals
+- **Audit**: Smart contract professionally audited
+- **Max Wallet**: 1% of total supply (10M VECTOR) per wallet
 
-| Staking Tier | Amount Required   | Benefits                                        |
-| ------------ | ----------------- | ----------------------------------------------- |
-| **Bronze**   | 100,000 VECTOR    | Custom settings, basic APIs, 10s cooldown       |
-| **Silver**   | 1,000,000 VECTOR  | Standard APIs, advanced features, 5s cooldown   |
-| **Gold**     | 10,000,000 VECTOR | All premium APIs, unlimited access, no cooldown |
+## **Utility & Use Cases**
 
-\
-\
-**Staking Rewards:**
+#### Access Tiers
+Stake VECTOR to unlock premium features:
+- **Bronze**: 100K VECTOR → Enhanced features
+- **Silver**: 1M VECTOR → Premium APIs
+- **Gold**: 10M VECTOR → Unlimited access
 
-* **APY Range**: 5% - 15% based on staking tier and duration
-* **Reward Distribution**: Weekly automatic compounding
-* **Lock Periods**: 30 days (Bronze), 90 days (Silver), 180 days (Gold)
-* **Early Withdrawal Penalty**: 5% (Bronze), 10% (Silver), 15% (Gold)
+#### Platform Payments
+- API call fees
+- Premium feature subscriptions
+- Custom integration costs
 
-#### 💳 Payment Method
+#### Tipping & Bounties
+- Telegram bot tipping system
+- Community bounty rewards
+- Content creator incentives
 
-* **API Usage**: Pay-per-call pricing for premium endpoints
-* **Gas Optimization**: Reduced fees when paying with $VECTOR
-* **Transaction Fees**: 10% discount on platform-executed transactions
-* **Data Export**: Premium data exports and analytics reports
+#### Governance Rights
+- Vote on platform features
+- Propose new developments
+- Community decision making
 
-#### 🎯 Tipping & Bounties
+## **Trading Information**
 
-**Telegram Integration:**
+**Primary DEX**: Uniswap V2/V3  
+**Liquidity Pairs**: VECTOR/ETH, VECTOR/USDC  
+**Price Discovery**: Market-driven on decentralized exchanges  
 
-* **AI Assistant Tips**: Reward helpful AI responses
-* **Community Bounties**: Incentivize feature requests and bug reports
-* **Content Creation**: Reward educational content and tutorials
-* **Developer Bounties**: Fund open-source contributions and integrations
+**Official Trading Links**:
+- Uniswap: [Trade VECTOR](https://app.uniswap.org)
+- DexTools: [Chart & Analytics](https://dextools.io)
+- CoinGecko: [Market Data](https://coingecko.com)
 
-#### 🏛️ Governance Rights
+---
 
-* **Proposal Voting**: Vote on platform features and API integrations
-* **Parameter Adjustment**: Modify staking requirements and reward rates
-* **Treasury Management**: Decide on fund allocation and partnerships
-* **Roadmap Priorities**: Influence development priorities and timelines
+## **Official Resources**
+
+- **Website**: https://vector-ai.pro
+- **Documentation**: Complete guides and API docs
+- **Community**: https://t.me/vectorai_tg
+- **Support**: team@vector-ai.pro

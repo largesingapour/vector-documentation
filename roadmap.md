@@ -28,7 +28,6 @@ Vector AI is building a comprehensive suite of blockchain-interactive AI tools, 
 * Vector GPT Live: Fully functional chatbot with natural language blockchain interaction
 * Token Launch: VECTOR token deployed on Ethereum mainnet
 * Security Measures: Liquidity locked, team tokens vested
-* Staking Platform: Bronze, Silver, Gold tier system active
 
 ***
 

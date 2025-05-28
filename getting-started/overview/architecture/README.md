@@ -1,4 +1,4 @@
-# 🏗️ Architecture
+# Architecture
 
 ### Vector: Short Summary of Use-Cases and Architecture
 

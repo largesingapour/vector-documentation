@@ -1,4 +1,4 @@
-# VECTOR AI Documentation
+# Table of contents
 
 ## Getting Started
 
@@ -10,13 +10,11 @@
   * [Architecture](getting-started/overview/architecture/README.md)
     * [vGPT Conversational Execution](getting-started/overview/architecture/vgpt-conversational-execution.md)
     * [vGPT + Custom APIs](getting-started/overview/architecture/vgpt-+-custom-apis.md)
-  * [API Reference](getting-started/overview/api-reference.md)
+    * [API Reference](getting-started/overview/architecture/api-reference.md)
 
 ## Token & Economics
 
-* [Complete Tokenomics & Economics](token-and-economics/unified-tokenomics.md)
 * [Token Information](token-and-economics/token-info.md)
-* [Tokenomics](token-and-economics/tokenomics.md)
 * [Staking](token-and-economics/staking.md)
 * [Rewards](token-and-economics/rewards.md)
 
@@ -28,9 +26,9 @@
 
 ## Premium APIs
 
+* [Rate Limits](premium-apis/rate-limits.md)
 * [Premium APIs](premium-apis/premium-apis.md)
 * [Pricing](premium-apis/pricing.md)
-* [Rate Limits](premium-apis/rate-limits.md)
 
 ## Company & Vision
 

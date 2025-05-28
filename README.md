@@ -4,7 +4,17 @@
 
 **Company**: VECTOR AI | **Product**: Vector GPT Chatbot | **Token**: VECTOR
 
-VECTOR AI is a blockchain intelligence company that developed Vector GPT, an advanced AI chatbot designed for DeFi automation and blockchain analysis. Our flagship product bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics and transaction capabilities.
+VECTOR AI is a blockchain intelligence company that developed Vector GPT, an advanced AI chatbot designed for DeFi automation and blockchain analysis. Our flagship product bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics and transaction capabilities.\
+
+
+## &#x20; Links
+
+* [![Website](https://img.icons8.com/ios-filled/16/000000/domain.png)](https://vector-ai.pro) [Website](https://vector-ai.pro)
+* [![Documentation](https://img.icons8.com/ios-filled/16/000000/book.png)](https://docs.vector-ai.pro/) [Documentation](https://docs.vector-ai.pro/)
+* [![Twitter](https://img.icons8.com/ios-filled/16/000000/twitter.png)](https://x.com/vectorai_x) [Twitter](https://x.com/vectorai_x)
+* [![Telegram](https://img.icons8.com/ios-filled/16/000000/telegram-app.png)](https://t.me/vectorai_tg) [Telegram](https://t.me/vectorai_tg)
+* [![Email](https://img.icons8.com/ios-filled/16/000000/new-post.png)](mailto:team@vector-ai.pro) [Email](mailto:team@vector-ai.pro)
+* [![GitHub](https://img.icons8.com/ios-filled/16/000000/github.png) GitHub](https://github.com/vectoraidev)
 
 ## VECTOR Token - Now Live!
 

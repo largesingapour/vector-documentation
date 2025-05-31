@@ -39,7 +39,6 @@
 * **Liquidity Lock**: 70% locked via Unicrypt 12+ months
 * **Team Vesting**: 3-month cliff + 18-month linear release
 * **Audit**: All Smart contract Verified, professionally audited as revenue increases
-* **Max Wallet**: 1% of total supply (10M VECTOR) per wallet
 
 ## **Utility & Use Cases**
 

@@ -14,6 +14,8 @@ VECTOR AI is a blockchain intelligence company that developed Vector GPT, an adv
 
 Vector GPT is a blockchain-connected GPT-style bot designed for advanced DeFi automation and intelligence. It bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics, transaction capabilities, and automation directly through Telegram or web chat.
 
+<figure><img src=".gitbook/assets/Screenshot 2025-05-28 223013.png" alt=""><figcaption><p>An example framework of how Vector AI utilizes multiple sources to gather accurate data</p></figcaption></figure>
+
 ## Core Features:
 
 **AI Assistant with Blockchain Connectivity**

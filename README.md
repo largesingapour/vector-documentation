@@ -1,12 +1,17 @@
 # Welcome to VECTOR AI
 
-<figure><img src=".gitbook/assets/Untitled design (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/vectoraidex.png" alt=""><figcaption></figcaption></figure>
 
-**Company**: VECTOR AI | **Product**: Vector GPT Chatbot | **Token**: VECTOR
+**Company**: VECTOR AI | **Product**: Vector GPT | **Token**: VECTOR
 
-VECTOR AI is a blockchain intelligence company that developed Vector GPT, an advanced AI chatbot designed for DeFi automation and blockchain analysis. Our flagship product bridges on-chain data, off-chain APIs, and GPT-powered reasoning to deliver real-time analytics and transaction capabilities.
+**VECTOR Token** `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`
 
-## &#x20;[Website](https://vector-ai.pro) - [Twitter](https://x.com/vectorai_x) - [Telegram](https://t.me/vectorai_tg) - [Email](mailto:team@vector-ai.pro) - [GitHub](https://github.com/vectoraidev)
+**VECTOR AI** is a blockchain intelligence company building VGPT — an advanced AI framework that combines DYOR automation, smart contract analysis, and real-time on-chain reasoning.\
+By bridging on-chain data, off-chain APIs, and LLM-powered logic, VGPT delivers actionable insights and enables direct blockchain interactions — all in natural language.
+
+**LINKS/SOCIALS**
+
+[🌐 Website](https://vector-ai.pro) • [📄 Docs](https://docs.vector-ai.pro) • [💬 Telegram](https://t.me/vectorai_tg) • [🐦 Twitter/X](https://x.com/vectorai_x) • [🛠 GitHub](https://github.com/vectoraidev) • [🧠 Buy $VECTOR](https://app.uniswap.org/swap?outputCurrency=0x569Dd3298E114Da858415ee5672C8F2AB57938Bf\&chain=ethereum)
 
 ***
 

@@ -3,14 +3,15 @@
 ## Getting Started
 
 * [Welcome to VECTOR AI](README.md)
-* [Overview](getting-started/overview/README.md)
+* [VGPT Use Cases](getting-started/use-cases.md)
+* [VGPT Framework](getting-started/overview/README.md)
   * [Quick Start Guide](getting-started/overview/quick-start.md)
   * [Example Queries](getting-started/overview/example-queries.md)
   * [Complete Features & Capabilities](getting-started/overview/comprehensive-features.md)
   * [Architecture](getting-started/overview/architecture/README.md)
     * [vGPT Conversational Execution](getting-started/overview/architecture/vgpt-conversational-execution.md)
     * [vGPT + Custom APIs](getting-started/overview/architecture/vgpt-+-custom-apis.md)
-    * [API Reference](getting-started/overview/architecture/api-reference.md)
+    * [⚠️ API Reference](getting-started/overview/architecture/api-reference.md)
 
 ## Token & Economics
 

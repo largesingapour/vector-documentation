@@ -12,7 +12,7 @@ Vector AI offers advanced tooling for evaluating token legitimacy, automating du
 
 Automatically evaluate the credibility of new tokens by scanning Twitter, Telegram, and other off-chain platforms as well as token security, holder information and honeypot checks.\
 \
-![](<../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 ***
 
@@ -29,7 +29,7 @@ Once a token is scanned, you can **ask VGPT follow-up questions** like:
 
 🧠 **VGPT connects the dots** across contract code, websites, socials, and documentation — giving you human-like reasoning in seconds.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 #### 🔗 Deep Link Ecosystem Analysis
 
@@ -38,7 +38,7 @@ Detect inconsistencies, reused templates, and mismatched identities that signal 
 \
 VGPT cross-references team bios, project claims, and social engagement to flag red flags or verify authenticity.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Link Discovery</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (4).png" alt="" width="375"><figcaption><p>Link Discovery</p></figcaption></figure></div>
 
 #### 🧬 Cross-Signal Token Scoring
 
@@ -51,7 +51,7 @@ Assign scores to tokens using:
 * Social signals\
 
 
-<div align="left"><figure><img src="../.gitbook/assets/Screenshot 2025-06-05 235601.png" alt="" width="401"><figcaption><p>All combined via VGPT-powered reasoning for a transparent and explainable legitimacy score.</p></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Screenshot 2025-06-05 235601.png" alt="" width="401"><figcaption><p>All combined via VGPT-powered reasoning for a transparent and explainable legitimacy score.</p></figcaption></figure></div>
 
 ***
 
@@ -73,7 +73,7 @@ Match smart contracts to all linked project assets.\
 Verify if contracts are mentioned on official sites, socials, and vice versa — identifying fake or unlinked tokens.\
 
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 ***
 

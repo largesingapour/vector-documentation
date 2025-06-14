@@ -3,7 +3,7 @@
 ## Getting Started
 
 * [Welcome to VECTOR AI](README.md)
-* [VGPT Use Cases](getting-started/use-cases.md)
+* [VGPT Use Cases](github/vector-gpt/use-cases.md)
 * [VGPT Framework](getting-started/overview/README.md)
   * [Quick Start Guide](getting-started/overview/quick-start.md)
   * [Example Queries](getting-started/overview/example-queries.md)

@@ -2,6 +2,14 @@
 
 <figure><img src=".gitbook/assets/vectoraidex.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+#### ⚠️ Docs v2 in progress
+
+Some sections are still being updated, so details may change.\
+&#xNAN;_&#x46;or the most accurate info, check our Telegram or the live changelog._
+{% endhint %}
+
+\
 **Company**: VECTOR AI | **Product**: Vector GPT | **Token**: VECTOR
 
 **VECTOR Token** `0x569Dd3298E114Da858415ee5672C8F2AB57938Bf`

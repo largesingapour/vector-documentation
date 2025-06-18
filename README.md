@@ -1,7 +1,5 @@
 # Welcome to VECTOR AI
 
-<figure><img src=".gitbook/assets/vectoraidex.png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="warning" %}
 #### ⚠️ Docs v2 in progress
 

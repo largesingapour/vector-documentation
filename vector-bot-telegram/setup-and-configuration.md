@@ -6,6 +6,15 @@ description: >-
 
 # Setup & Configuration
 
+{% hint style="warning" %}
+#### ⚠️ Docs v2 in progress
+
+Some sections are still being updated and details have changed.\
+&#xNAN;_&#x46;or the most accurate info, check our Telegram or the live changelog._\
+\
+_While we do that, help train our_ @vectorOGbot
+{% endhint %}
+
 Get your Vector GPT Telegram bot up and running in minutes with this comprehensive setup guide. Whether you're setting up personal portfolio tracking or configuring community management for your group, we'll walk you through every step.
 
 ## **Quick Start Setup**

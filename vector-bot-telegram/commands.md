@@ -6,6 +6,15 @@ description: >-
 
 # Commands Reference
 
+{% hint style="warning" %}
+#### ⚠️ Docs v2 in progress
+
+Some sections are still being updated and details have changed.\
+&#xNAN;_&#x46;or the most accurate info, check our Telegram or the live changelog._\
+\
+_While we do that, help train our_ @vectorOGbot
+{% endhint %}
+
 Complete reference for all Vector GPT Telegram bot commands. Commands are organized by category with examples and usage notes.
 
 ## 🚀 **Essential Commands**

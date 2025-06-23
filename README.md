@@ -4,7 +4,9 @@
 #### ⚠️ Docs v2 in progress
 
 Some sections are still being updated, so details may change.\
-&#xNAN;_&#x46;or the most accurate info, check our Telegram or the live changelog._
+&#xNAN;_&#x46;or the most accurate info, check our Telegram or the live changelog._\
+\
+_While we do that, hlep train our_ @vectorOGbot
 {% endhint %}
 
 \

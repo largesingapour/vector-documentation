@@ -12,7 +12,7 @@ Get your Vector GPT Telegram bot up and running in minutes with this comprehensi
 
 ### Step 1: Add Vector Bot to Telegram
 
-1. **Search for the Bot**: Open Telegram and search for `@VectorAIBot`
+1. **Search for the Bot**: Open Telegram and search for `@VectorOGbot`
 2. **Start the Conversation**: Click **Start** or send `/start` command
 3. **Accept Permissions**: Allow the bot to send you messages and notifications
 
